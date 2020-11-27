@@ -1,2 +1,2 @@
-# Manor
-Starter for Cracc 'n' Hacc
+This contains HTML code for Mischief Manor prototype
+
