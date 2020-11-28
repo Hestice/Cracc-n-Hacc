@@ -1,0 +1,108 @@
+<!-- Desktop - 22 -->
+<div class="frame" id="n151_20">
+	<!-- Rectangle 22 -->
+	<div class="left top rectangle" id="n151_25"></div>
+	<!-- pixel-speech-bubble (1) 2 -->
+	<div class="left top rectangle" id="n151_26"></div>
+	<!-- pixel-speech-bubble (1) 5 -->
+	<div class="left top rectangle" id="n151_27"></div>
+	<!-- Rectangle 21 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e678/5ed9/cf18ce0064039e9124d809dd74f3d496" width="171" height="66" class="left top vector" id="n151_28">
+		<!-- Rectangle 24 -->
+		<div class="left top rectangle" id="n151_22"></div>
+		<!-- Rectangle 25 -->
+		<div class="left top rectangle" id="n151_23"></div>
+		<!-- Rectangle 1 -->
+		<div class="left top rectangle" id="n151_21"></div>
+		<!-- Rectangle 23 -->
+		<div class="left top rectangle" id="n151_24"></div>
+	</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 22 */
+#n151_20 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(43, 103, 173);
+}
+ 
+	/* Rectangle 22 */
+	#n151_25 {
+		background: rgb(0, 0, 0);
+		left: 864px;
+		width: 192px;
+		top: 223px;
+		height: 536px;
+	}
+ 
+	/* pixel-speech-bubble (1) 2 */
+	#n151_26 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/7e30/6495/12a9807f026844c3f82ed0504ad9b3c7?Expires=1607299200&Signature=RuaoS4AEmHqs-ILyWAVDg7yBl4fCxgVdeOz4s1W670wjyjPKwgLd4omTLgBd5K5omm-MuivkWdbPjqN5Ctrowe4olPm2vbl1gzoRWtTJxEhzng-wbrhEAGaiZsH1JS2tijuBfSS7m9b~~sO3tZ12ydYzrkSWjbmcI6nEVUU96al0p2N2ua6kSYP0FlfQIeOncQ9lJGRl5myKvqc0pr2zgTcLJhNm~wCBqpQAD2t~bLGBBFhS9KWRvndtYwp4eBLCMpKx0v1c8paO63abDBrEN69gBfnqXv17b-nE0OiGgoOkKJyGYHsSWSonvfjBS46lyTzVYO5jLDaapmdx-2bZMA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 554px;
+		width: 288px;
+		height: 218px;
+	}
+ 
+	/* pixel-speech-bubble (1) 5 */
+	#n151_27 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/c0a8/7020/73e02e41acedb80fa9f4eed4fb3ddb9b?Expires=1607299200&Signature=TOgX0m0jF9QoJ4jrM2j6lLEE3okv~5v0B1qWSMc7RHJPgjpAYC6RmhyM5BxI5HTtZqI0xBbP8so2vbQ1rqKwfXlkEoJdDevI1CZKqiF1u88YJzuR6F7O1f8-UJoMMneW-4Rt3NN~hnAC3~pc-GjCrhaQ0bk~C6g4qcgTgG47CiAbeo8cEomg4zF8y3MDGrqAR6SAMUIEXR2o9BHz6qSyMjWNtkSIp60cZOkwXDGTxlnQe4thcw86aClWi-nPtKlZx-N2zNweoDIW69HoeN655DA3MPkJUfuJq78rVkGZL-i55WQydOAoQIwPZTazBXsdT6QSxYglt-N2rPFU73p25Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1251px;
+		width: 138px;
+		top: 26px;
+		height: 154px;
+	}
+ 
+	/* Rectangle 21 */
+	#n151_28 {
+		left: 1234px;
+		width: 171px;
+		top: 114px;
+		height: 66px;
+	}
+ 
+	/* Rectangle 24 */
+	#n151_22 {
+		background: rgb(0, 0, 0);
+		left: 362px;
+		width: 192px;
+		top: 223px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 25 */
+	#n151_23 {
+		background: rgb(0, 0, 0);
+		left: 613px;
+		width: 192px;
+		top: 363px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 1 */
+	#n151_21 {
+		background: rgb(0, 0, 0);
+		left: 1128px;
+		width: 192px;
+		top: 363px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 23 */
+	#n151_24 {
+		background: rgb(0, 0, 0);
+		left: 111px;
+		width: 192px;
+		top: 363px;
+		height: 536px;
+	}
+</style>

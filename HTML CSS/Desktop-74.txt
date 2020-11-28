@@ -1,0 +1,123 @@
+<!-- Desktop - 74 -->
+<div class="frame" id="n184_255">
+	<!-- Rectangle 6 -->
+	<div class="left top rectangle" id="n184_256"></div>
+	<!-- Rectangle 10 -->
+	<div class="left top rectangle" id="n184_257"></div>
+	<!-- Frame 3 -->
+	<div class="frame" id="n184_262"></div>
+	<!-- eivan1 1 -->
+	<div class="left top rectangle" id="n184_263"></div>
+	<!-- pixel-speech-bubble (16) 1 -->
+	<div class="left top rectangle" id="n192_45"></div>
+	<!-- pixel-speech-bubble (9) 3 -->
+	<div class="left top rectangle" id="n197_32"></div>
+	<!-- pixel-speech-bubble (19) 1 -->
+	<div class="left top rectangle" id="n198_39"></div>
+	<!-- Eivan’s name has skeptical all over. he usually fights with izzy on doing assignments, he’s the reason time always runs out because of his “mind pondering”. His opinions really matter though! Listen to him! -->
+	<div class="left top text" id="n184_300">Eivan’s name has skeptical all over.<br>he usually fights with izzy on doing assignments, he’s the reason time always runs out because of his “mind pondering”. His opinions really matter though! Listen to him! 
+	</div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 74 */
+#n184_255 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 6 */
+	#n184_256 {
+		background: rgb(111, 136, 92);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 10 */
+	#n184_257 {
+		background: rgb(255, 255, 255);
+		left: 807px;
+		width: 553px;
+		top: 481px;
+		height: 354px;
+	}
+ 
+	/* Frame 3 */
+	#n184_262 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: -27px;
+		top: 446px;
+	}
+ 
+	/* eivan1 1 */
+	#n184_263 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/2dac/a769/8b7e8dbdd2d4ccf2d971d34fd5b55ad1?Expires=1607299200&Signature=Nqo4jS5ahGRTkG5ceSmARhq-KcJvVu8P9ryCn6j0QN9rZ7-gOeOPYn0DserOrMuxwFzcNZqZCO0JkEIgP9jFbywOAoz1RldbHiv4-7c7Ak6niMnmOVWJlMkSq~MJz0T1gYobUQXgZfNMh6KajXpkbDcJV9RdzFjhriz8dfskT-l-4j0hwIu-dpEXBTdwmRAGZxjv1497gHJNJaxhvQc~G~pYBKa5c~3yhInN1vumVK1pjgz3TERvIaU8OlU90P-XTxa3L8swQNllN~31UO5q~VJivykukzoY2E6YG4kUymuFTUV95V8g4dy6UcZ0aOMhzfRkFhEzSncXYnzWs2cyyg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -155px;
+		width: 1105px;
+		top: 106px;
+		height: 918px;
+	}
+ 
+	/* pixel-speech-bubble (16) 1 */
+	#n192_45 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/7cc6/7632/feebacdc5c61754c80569a908e57b87d?Expires=1607299200&Signature=RzxbLOsGIxHIbJ1EPdr12L7Ruk7exHHR-ZkFGjQjJzzCcnUgy6Ur6-2Kn3tJMFYy8tr~MdJvrFcgPTtsiEwajfxQVCjU9Ame0i-CB-e1jpEX82qxxJOYKW6qadzhCIbXgtvIavwuL05lQEHXqSYUHdRNGC2ZYJBTevkGt0zp0Dg6F0cQxsA1hjoLjFQGWCbJli4WmMiiZtOCOLUDJ4oBD97FczxSpGTIMkk3nM24ludK8zDU8ZaaWvFcmtUA6h2TyA4iyLk8GYbDDoGT4X4TElhwYCdrAI2zhodh4K1qpz2z2wVcT4LOzQQCZT8dfPBHVsM~98M6MdgxGe2x-s8lXw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 891px;
+		width: 383px;
+		top: 157px;
+		height: 270px;
+	}
+ 
+	/* pixel-speech-bubble (9) 3 */
+	#n197_32 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/489e/1fde/b1b1dd91eb5a370ed4a6460b22ef6afc?Expires=1607299200&Signature=DYLJA-QSj~AWCRVNMpNrcGjVbYBpnHrqzqVRX1Qa3icTHcclh8HnrFwHPxNhH19rNcDq~Hr7oqavxlNzsdx6FQes~K-5j~qPrBIRVNrudO8ls2nAFZovmpch4EEWEIw-tGRLhrT5vRcBMJjJ2rdzwl1XGTPzR-WqAa0bcko7w-QRrop7Ev1I9ZWbdHg-Zz8CIieQnx2ZOWO32CLPhnVHTzKIcrZXaKPQBRHlREAHNMEiAI5O9eN-KUST8Dl9oRrP45uNENWDnYxHnFYh3Dnn80Dl60NxGsCMf5ahXQyGHTTM0GDs~XWro8-zCmBgItBXulvExvv3zA5mYuKZq0-FvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 167px;
+		top: 19px;
+		height: 138px;
+	}
+ 
+	/* pixel-speech-bubble (19) 1 */
+	#n198_39 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f720/be68/bf1b14c6dbb0cd7a1cd8db7dd6e32217?Expires=1607299200&Signature=DsD3o3eSL15JBwffc9WtXiS49XFP3TQUe8rEXgtWQPrDo3~vIdB-Y5PuKKgZIT-78AQcUIlDLTSsToI7p4V4evgOQ2n8Yuf-6H0I72ioedKXlyUvtl6xxwgxPyyt7LnOdtEelKXd5vZLXa3eF08j9zjC2bg1L9SXXYkrlAR08YfD0Irgss4Lj8pk2xqPGx3iVxc4Ayl3cOO5LQzR9yhBSnlOWVEvvgdBkBr1BMcksKrRxi7LKwoiSqLyYsZQP4-kTywAhAgH7N~7SwqCKW4nXa4ITY66IZNuvoRomRUqqST2Os~c987-3S-MQgsgfiF1TSbJuBtZY1RV1ty~Z80JNg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1252px;
+		width: 185px;
+		top: 9px;
+		height: 158px;
+	}
+ 
+	/* Eivan’s name has skeptical all over. he usually fights with izzy on doing assignments, he’s the reason time always runs out because of his “mind pondering”. His opinions really matter though! Listen to him! */
+	#n184_300 {
+		font-family: Kreon;
+		font-size: 36px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 534px;
+		align-items: center;
+		line-height: 42.1875px;
+		height: 309px;
+		left: 815px;
+		top: 494px;
+	}
+</style>

@@ -1,0 +1,141 @@
+<!-- Desktop - 16 -->
+<div class="frame" id="n148_78">
+	<!-- Rectangle 6 -->
+	<div class="left top rectangle" id="n148_79"></div>
+	<!-- Rectangle 10 -->
+	<div class="left top rectangle" id="n148_80"></div>
+	<!-- You are a Bystander! -->
+	<div class="left top text" id="n148_81">You are a Bystander! &nbsp;&nbsp;&nbsp;<br> &nbsp;
+	</div>
+	<!-- you need to help out your teamates escape! goodluck! -->
+	<div class="left top text" id="n148_82">you need to help out <br>your teamates escape!<br>goodluck!
+	</div>
+	<!-- pixel-speech-bubble (1) 3 -->
+	<div class="left top rectangle" id="n148_83"></div>
+	<!-- Frame 3 -->
+	<div class="frame" id="n148_84"></div>
+	<!-- Rectangle 9 -->
+	<div class="left top rectangle" id="n148_85"></div>
+	<!-- pixel-speech-bubble (2) 2 -->
+	<div class="left top rectangle" id="n148_86"></div>
+	<!-- hh1 1 -->
+	<div class="left top rectangle" id="n148_135"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 16 */
+#n148_78 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+ 
+	/* Rectangle 6 */
+	#n148_79 {
+		background: rgb(100, 100, 100);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 10 */
+	#n148_80 {
+		background: rgb(255, 255, 255);
+		left: 852px;
+		width: 510px;
+		top: 432px;
+		height: 301px;
+	}
+ 
+	/* You are a Bystander! */
+	#n148_81 {
+		font-family: Kreon;
+		font-size: 48px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 448px;
+		transform: translate(0px, 0px);
+		line-height: 56.25px;
+		height: 55px;
+		left: 912px;
+		top: 457px;
+	}
+ 
+	/* you need to help out your teamates escape! goodluck! */
+	#n148_82 {
+		font-family: Kreon;
+		font-size: 48px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 430px;
+		transform: translate(0px, 0px);
+		line-height: 56.25px;
+		height: 180px;
+		left: 892px;
+		top: 517px;
+	}
+ 
+	/* pixel-speech-bubble (1) 3 */
+	#n148_83 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/bddd/43fc/fc76443a0bf168d691d202763db168f9?Expires=1607299200&Signature=DiBE3huYLFJ21Y0n5P~O5Fl9wjY~VvWPbAMCm0N2oolWg1nPXkjH-hYCyHrSHCy8jtKxlWRVbLSIYAkSYV-a1YKOpVsa4gLJKpBiZwRKnHDjY7c6JYAWRQXOhF1P0Tqonzwiy90s3nZEL4DAXpa8xo2dEt3L0Pw68WX~sZL55WOTJjE7RHx~Koiml8PwchL9523N-dUt36L9Eqou26zX4ie-Knirkth2a4WgON98YHBstmseGYnncT4XNGFHth8DEnZ9De-76g06M5p-UiOhSzmN0Pj8ZTUjsVLl1LnJ9D-Sq5Zt53m8P~rvbWYCBElMshDmue0CYFoRMDbTZlZeAA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 984px;
+		width: 362px;
+		top: 788px;
+		height: 172px;
+	}
+ 
+	/* Frame 3 */
+	#n148_84 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 21px;
+		top: 446px;
+	}
+ 
+	/* Rectangle 9 */
+	#n148_85 {
+		background: rgb(100, 100, 100);
+		left: 836px;
+		width: 541px;
+		top: 432px;
+		height: 301px;
+	}
+ 
+	/* pixel-speech-bubble (2) 2 */
+	#n148_86 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/63d0/b522/4e3a4bd23e7a867cc246474164bebcd2?Expires=1607299200&Signature=HOaNux36UBmI4hM7Vg2gsbmY2fZuwEod~HOcv6heELK8CBis1UfYUA2fE6WEXWwcY7NcoQMT889w0fv83OeA~XjxytL~BZ6lBQ0cx4oB2g6k98rYQ0pNIyBCF8PH29OPJJzzwcI3uCdke7a-bVp14TjPd~FEnPcB4b~S6~xeWUGAAH83CbXvjYosSfNWySJrxE6WKq-g6EOm2TvODLy4Lxr9WbUuNzNsFHC-M3gULxBzq3qgYBHv4hZOzcNJLkpFmN0cGvOJeIfP~c7J6It~bw406ujmR1i8KHiCfKIno2rApn3tMVb~dmmZSsO6NrrW8DjKbB9PiZj7YOPvLW-pvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 836px;
+		width: 510px;
+		top: 478px;
+		height: 258px;
+	}
+ 
+	/* hh1 1 */
+	#n148_135 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/b2aa/6730/e1258736326e535d8ffab5943001cfff?Expires=1607299200&Signature=GBMfJTECvoA4aVHvqvfGUmSQJDiUpjzgteTYaaGS4ocUXyQcBfcVjKUS-y7CqtDZg-FOEEX0YVf6QQ~Bg3IE7ez-fc5ZCmE0TLzfC1buIgPYfL6b9MW~A56wdUMqg9erST9Ox8MdKGqnVxFp~20004KFPMTZUlcVTbzYBPZ0efeEpiNNc4lc4Ky~ADAS915ED2y332JzTbMIaq1-DGKpLpESC1mopGaNYsdGniHmJqVQXq0KXlqfxxTYhBIcppE2YkNHuyRfyF5LfhOLeE5fUKP7U1pM3Rc5lvLmq3C6DrKK4UlUim7YWp41npKjTHwjtm5hIUKJjDQdLmp-dnSl1Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -147px;
+		width: 1331px;
+		top: 70px;
+		height: 954px;
+	}
+</style>

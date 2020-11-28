@@ -1,0 +1,139 @@
+<!-- Desktop - 77 -->
+<div class="frame" id="n184_305">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n184_306"></div>
+	<!-- Rectangle 15 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/aca7/15b6/2cce10f1d26f92846992ed8dcfa391d6" width="1440" height="1031" class="left top vector" id="n184_307">
+		<!-- Rectangle 26 -->
+		<div class="left top rectangle" id="n184_308"></div>
+		<!-- Vector 1 -->
+		<div class="component left top instance" id="n184_309">
+			<!-- Vector 1 -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/27ec/c868/2f37ad237f92fb5fdf7edd2d4c5c36fa" width="73" height="50" class="scale vector" id="nI184_309-148_151"></div>
+			<!-- Vector 2 -->
+			<div class="component left top instance" id="n184_310">
+				<!-- Vector 2 -->
+				<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ee5d/e90d/76ed4f65b197049006f9d1d1d8d68f90" width="32" height="22" class="scale vector" id="nI184_310-148_152"></div>
+				<!-- Vector 3 -->
+				<div class="component left top instance" id="n184_311">
+					<!-- Vector 3 -->
+					<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/747e/b27f/1e9e7511fee46a4fecdd8c7cdf76c389" width="33" height="20" class="scale vector" id="nI184_311-148_153"></div>
+					<!-- Rectangle 27 -->
+					<div class="left top rectangle" id="n184_312"></div>
+					<!-- Rectangle 28 -->
+					<div class="left top rectangle" id="n184_313"></div>
+					<!-- Rectangle 29 -->
+					<div class="component left top instance" id="n184_314">
+						<!-- Rectangle 29 -->
+						<div class="scale rectangle" id="nI184_314-148_160"></div>
+					</div>
+					<!-- pixel-speech-bubble (20) 2 -->
+					<div class="left top rectangle" id="n215_37"></div>
+				</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 77 */
+#n184_305 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n184_306 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 1461px;
+		top: -10px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 15 */
+	#n184_307 {
+		width: 1440px;
+		top: -18px;
+		height: 1031px;
+	}
+ 
+	/* Rectangle 26 */
+	#n184_308 {
+		background: rgba(0, 0, 0, 0.2);
+		left: 11px;
+		width: 1440px;
+		top: -10px;
+		height: 1024px;
+	}
+ 
+	/* Vector 1 */
+	#n184_309 {
+		width: 73px;
+		height: 50px;
+		left: 1254px;
+		top: 473px;
+	}
+ 
+	/* Vector 2 */
+	#n184_310 {
+		width: 32px;
+		height: 22px;
+		left: 994px;
+		top: 451px;
+	}
+ 
+	/* Vector 3 */
+	#n184_311 {
+		width: 33px;
+		height: 20px;
+		left: 216px;
+		top: 427px;
+	}
+ 
+	/* Rectangle 27 */
+	#n184_312 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 501px;
+		width: 139px;
+		top: 284px;
+		height: 163px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_313 {
+		box-shadow: rgb(121, 225, 232) 0px 0px 0px 6px inset;
+		left: 421px;
+		width: 48px;
+		top: 349px;
+		height: 55px;
+	}
+ 
+	/* Rectangle 29 */
+	#n184_314 {
+		width: 265px;
+		height: 50px;
+		left: 375px;
+		top: 52px;
+	}
+ 
+		/* Rectangle 29 */
+		#nI184_314-148_160 {
+			box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		}
+ 
+	/* pixel-speech-bubble (20) 2 */
+	#n215_37 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/8c1b/069a/2d7140f13d437f2e07efb6fb8ce9ea87?Expires=1607299200&Signature=grcCnhP5d3lPsoL3xMbSYu9AmJP2BD1lN-8F9J1U3Covy77iRDEwm5lKzSAD2is4jXnXTRgexAklsutm2X-UOrTTxF8~5H76lGb4B3pdLzOhhGZwo~FT4wMWQIS8DqIp5H5MGBGSViAXiqQvp4XjGlnlEsAO1sAIxxZwRtiL-cJbwSpCunxEYTiugjZAj3MBexeSBar~tkb0iJMpMNwU-dtJs5ZtOkRSObknIAWqM6T~c~wWFaUCQOWo3GjO7m4Zj8buNp9rbqbWnzYcHB95DvFvah0xuwQYotfsAYQn1P8-9a2iPwaf9Zxp6QXQH4uYlYjYDgRSwKSl836FL3CKGA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 445px;
+		width: 621px;
+		top: 720px;
+		height: 180px;
+	}
+</style>

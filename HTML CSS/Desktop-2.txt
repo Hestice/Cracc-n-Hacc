@@ -1,0 +1,140 @@
+<!-- Desktop - 2 -->
+<div class="frame" id="n6_41">
+	<!-- Rectangle 5 -->
+	<div class="left top rectangle" id="n8_15"></div>
+	<!-- pixel-speech-bubble (2) 3 -->
+	<div class="left top rectangle" id="n133_7"></div>
+	<!-- image 2 -->
+	<div class="left top rectangle" id="n146_6"></div>
+	<!-- Rectangle 20 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b2b1/5303/2d8c36b973410b414ba9b0f21ecc384a" width="1452" height="565" class="left top vector" id="n148_8">
+		<!-- Rectangle 19 -->
+		<div class="left top rectangle" id="n146_11"></div>
+		<!-- There are four rooms in each game. Each room has 7 items with corresponding questions either a Good Task or a Bad Task associated with it. The players need to finish a maximum of 5 tasks per room to proceed the next one. If they manage to successfully complete all good tasks in a room, the get a Special Item. 2 of those Special Item will give the players the ability to vote out who they think Deviant is. The Deviant wins if the crew does 2 bad tasks in a room, or if the crew votes out a player who is not a deviant. -->
+		<div class="left top text" id="n133_26">There are four rooms in each game. Each room has 7 items with corresponding questions either a Good Task or a Bad Task associated with it. The players need to finish a maximum of 5 tasks per room to proceed the next one.<br><br>If they manage to successfully complete all good tasks in a room, the get a Special Item.<br><br>2 of those Special Item will give the players the ability &nbsp;to vote out who they think Deviant is. &nbsp;<br><br>The Deviant wins if the crew does 2 bad tasks in a room, or if the crew votes out a player who is not a deviant.
+		</div>
+		<!-- pixel-speech-bubble (9) 1 -->
+		<div class="left top rectangle" id="n146_39"></div>
+		<!-- Rectangle 23 -->
+		<div class="left top rectangle" id="n146_40"></div>
+		<!-- HOW TO PLAY -->
+		<div class="left top text" id="n146_30">HOW TO PLAY</div>
+	</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 2 */
+#n6_41 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 5 */
+	#n8_15 {
+		background: rgb(16, 19, 74);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* pixel-speech-bubble (2) 3 */
+	#n133_7 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0f30/6a5e/9306cb28e3c2e50e315cdd265ad4384e?Expires=1607299200&Signature=XfgyPv-pzz5nkhN3KOp8gyP~Vta5-NQIn6wZTtAUsyxs3nzGR9-MfgmDBVAStRdMkUtZYhwjtO5T0WO6eX8dnIG3y6bfGK0~iscBXJe5jssAmdqH9Ow2F9kBd8als9MXDWQP6M3Vum0kQmrZqGLlOZbBanirQGxh8nUg1lOCTlAjWCM3D77CLlnF9TpqJhih-ZKpzqj89yn29wao5XIaogd3AR9OR-v~gePbT7yksLodHp3TBu0JyKVa04bbNHHG54Yq-OHOQgTqOb0xVXXwWEUoXMyDivwxvjNKk76uyOI71~Nah1y~uieaDI-~Qs4d7ENE7U-s-go3col5ZLVOHQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 41px;
+		width: 167px;
+		top: 865px;
+		height: 138px;
+	}
+ 
+	/* image 2 */
+	#n146_6 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f5bb/c6a0/2da3588ab54c8d13790dad545b0b03a0?Expires=1607299200&Signature=Ao2PzYYUoZeXRQewGl3IEXUIVSgULYN7UrLkUPNO76RqM7OcxQKL3MMN-ncWzJJsZc7EC0L1e5Ls4JSjxfnjxkT6ov69bFNoxSLcIquO6OLE4p5ev5lq6lfMLXahovaGGG8eHF~UzJ~3GrnKL4mHs8N8Q~jGaCtxyHsrDkOb-0fcNFQTzjaIR71aAxWgNGa5dfPbJEHfRo0rfwi1f-U~X8sKN0tpYXoIquAizE0v~yZGOfjvH3XgMs9idTEGiaaNlfln960E6zZ5NObO-XPUx-9WJ6wZb6lv-7NNbY2eejWIeHo~C41saLXHW5-J1IZO62eaptuSmqRKDcckOFQnAQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -12px;
+		width: 1440px;
+		top: 207px;
+		height: 647px;
+	}
+ 
+	/* Rectangle 20 */
+	#n148_8 {
+		left: -12px;
+		width: 1452px;
+		top: 248px;
+		height: 565px;
+	}
+ 
+	/* Rectangle 19 */
+	#n146_11 {
+		background: rgb(16, 19, 74);
+		left: 41px;
+		width: 140px;
+		top: 945px;
+		height: 58px;
+	}
+ 
+	/* There are four rooms in each game. Each room has 7 items with corresponding questions either a Good Task or a Bad Task associated with it. The players need to finish a maximum of 5 tasks per room to proceed the next one. If they manage to successfully complete all good tasks in a room, the get a Special Item. 2 of those Special Item will give the players the ability to vote out who they think Deviant is. The Deviant wins if the crew does 2 bad tasks in a room, or if the crew votes out a player who is not a deviant. */
+	#n133_26 {
+		font-family: "Krona One";
+		font-size: 28px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1048px;
+		transform: translate(0px, 0px);
+		line-height: 32.8125px;
+		height: 455px;
+		left: 241px;
+		top: 285px;
+	}
+ 
+	/* pixel-speech-bubble (9) 1 */
+	#n146_39 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/489e/1fde/b1b1dd91eb5a370ed4a6460b22ef6afc?Expires=1607299200&Signature=DYLJA-QSj~AWCRVNMpNrcGjVbYBpnHrqzqVRX1Qa3icTHcclh8HnrFwHPxNhH19rNcDq~Hr7oqavxlNzsdx6FQes~K-5j~qPrBIRVNrudO8ls2nAFZovmpch4EEWEIw-tGRLhrT5vRcBMJjJ2rdzwl1XGTPzR-WqAa0bcko7w-QRrop7Ev1I9ZWbdHg-Zz8CIieQnx2ZOWO32CLPhnVHTzKIcrZXaKPQBRHlREAHNMEiAI5O9eN-KUST8Dl9oRrP45uNENWDnYxHnFYh3Dnn80Dl60NxGsCMf5ahXQyGHTTM0GDs~XWro8-zCmBgItBXulvExvv3zA5mYuKZq0-FvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1238px;
+		width: 167px;
+		top: 865px;
+		height: 138px;
+	}
+ 
+	/* Rectangle 23 */
+	#n146_40 {
+		background: rgb(16, 19, 74);
+		left: 1265px;
+		width: 114px;
+		top: 945px;
+		height: 63px;
+	}
+ 
+	/* HOW TO PLAY */
+	#n146_30 {
+		font-family: "Krona One";
+		font-size: 96px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(87, 70, 187);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 879px;
+		transform: translate(0px, 0px);
+		line-height: 112.5px;
+		height: 120px;
+		box-shadow: rgb(0, 0, 0) 0px 4px 4px 0px;
+		left: 301px;
+		top: 59px;
+	}
+</style>

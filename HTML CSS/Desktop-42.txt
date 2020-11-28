@@ -1,0 +1,89 @@
+<!-- Desktop - 42 -->
+<div class="frame" id="n167_33">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n167_34"></div>
+	<!-- Rectangle 15 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/aca7/15b6/2cce10f1d26f92846992ed8dcfa391d6" width="1440" height="1031" class="left top vector" id="n167_35">
+		<!-- Rectangle 26 -->
+		<div class="left top rectangle" id="n167_36"></div>
+		<!-- Rectangle 27 -->
+		<div class="left top rectangle" id="n167_37"></div>
+		<!-- Rectangle 28 -->
+		<div class="left top rectangle" id="n167_45"></div>
+		<!-- Assignment Complete! -->
+		<div class="left top text" id="n167_47">Assignment Complete!</div>
+	</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 42 */
+#n167_33 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n167_34 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -11px;
+		width: 1461px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 15 */
+	#n167_35 {
+		left: -11px;
+		width: 1440px;
+		top: -8px;
+		height: 1031px;
+	}
+ 
+	/* Rectangle 26 */
+	#n167_36 {
+		background: rgba(0, 0, 0, 0.2);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 27 */
+	#n167_37 {
+		background: rgba(0, 0, 0, 0.2);
+		box-shadow: rgb(0, 0, 0) 0px 0px 0px 1px inset;
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 28 */
+	#n167_45 {
+		background: rgba(111, 136, 92, 0.8);
+		left: -11px;
+		width: 1450px;
+		top: 387px;
+		height: 249px;
+	}
+ 
+	/* Assignment Complete! */
+	#n167_47 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1402px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 358px;
+		left: 27px;
+		top: 346px;
+	}
+</style>

@@ -1,0 +1,93 @@
+<!-- Frame 5 -->
+<div class="frame" id="n184_229">
+	<!-- Rectangle 39 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/cfd7/90cb/b196d8af911aba947b52d93d94e840a9" width="1440" height="741" class="left top vector" id="n184_232">
+		<!-- Text -->
+		<div class="left top text" id="n184_233"><br>
+		</div>
+		<!-- pixel-speech-bubble (21) 1 -->
+		<div class="left top rectangle" id="n215_39"></div>
+		<!-- Rectangle 42 -->
+		<div class="left top rectangle" id="n215_43"></div>
+		<!-- Rectangle 43 -->
+		<div class="left top rectangle" id="n215_44"></div>
+		<!-- Rectangle 44 -->
+		<div class="left top rectangle" id="n215_45"></div>
+	</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Frame 5 */
+#n184_229 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 39 */
+	#n184_232 {
+		width: 1440px;
+		top: 150px;
+		height: 741px;
+	}
+ 
+	/* Text */
+	#n184_233 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 0px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 148px;
+		left: 741px;
+		top: 423px;
+	}
+ 
+	/* pixel-speech-bubble (21) 1 */
+	#n215_39 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/c9c2/33a6/41d408db3786dd775366af9e59b55d4d?Expires=1607299200&Signature=Vkh3N3gQ36lry~tqRxslEKFhYrVYk879Qxc4jifKHQdQi8eaO642diJMMl7HzNH3DmAwN0Mvr1F3oEhXzh38k625oLFtEMkynQXaeX1Kk66NawLRYayGqlW9RgYw2hXh7Lp7sKHjRdzqHsu5t3GaDZAYXi5JPNexqIcRq4lcmMCJEfkPZFWJjINc4p5AXaeorHzPsio~UbwMegB1eseNAqGoV-sLAL0Q1T62PfHyUQSp32GLrt6Js5sHBKEEv5ERJDoRAbN1OlPAO0zCSTaJgN3NcfQxAgQjID93lHce~QOBou7i0UEw3TVcigWgoGdTvDqE~N1nW9GT7LqY7TbkCg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 175px;
+		width: 1089px;
+		top: 434px;
+		height: 180px;
+	}
+ 
+	/* Rectangle 42 */
+	#n215_43 {
+		background: rgb(96, 163, 85);
+		left: 514px;
+		width: 73px;
+		top: 551px;
+		height: 46px;
+	}
+ 
+	/* Rectangle 43 */
+	#n215_44 {
+		background: rgb(78, 131, 69);
+		left: 531px;
+		width: 51px;
+		top: 542px;
+		height: 9px;
+	}
+ 
+	/* Rectangle 44 */
+	#n215_45 {
+		background: rgb(0, 0, 0);
+		left: 543px;
+		width: 28px;
+		top: 533px;
+		height: 9px;
+	}
+</style>

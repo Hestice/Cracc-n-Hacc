@@ -1,0 +1,255 @@
+<!-- Desktop - 60 -->
+<div class="frame" id="n184_94">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n184_95"></div>
+	<!-- Rectangle 26 -->
+	<div class="left top rectangle" id="n184_96"></div>
+	<!-- Vector 1 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7c89/d570/9c109e8c24d1252d18e5d10282a6ea0d" width="73" height="50" class="left top vector" id="n184_97">
+		<!-- Vector 2 -->
+		<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f5a3/9b66/68765d4782cfdca751eecabc4ab7e9de" width="32" height="22" class="left top vector" id="n184_98">
+			<!-- Vector 3 -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b4e8/bdbe/148f695641196fac3aadea1f9768b8d7" width="33" height="20" class="left top vector" id="n184_99">
+				<!-- Rectangle 27 -->
+				<div class="left top rectangle" id="n184_100"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_101"></div>
+				<!-- Rectangle 29 -->
+				<div class="left top rectangle" id="n184_102"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_103"></div>
+				<!-- Rectangle 30 -->
+				<div class="left top rectangle" id="n184_104"></div>
+				<!-- Rectangle 31 -->
+				<div class="left top rectangle" id="n184_105"></div>
+				<!-- Rectangle 32 -->
+				<div class="left top rectangle" id="n184_106"></div>
+				<!-- Rectangle 33 -->
+				<div class="left top rectangle" id="n184_107"></div>
+				<!-- How many brains does Octupuses have? -->
+				<div class="left top text" id="n184_108">How many brains does Octupuses have?</div>
+				<!-- 8 -->
+				<div class="left top text" id="n184_109">8</div>
+				<!-- 9 -->
+				<div class="left top text" id="n184_110">9</div>
+				<!-- 12 -->
+				<div class="left top text" id="n184_111">12</div>
+				<!-- 4 -->
+				<div class="left top text" id="n184_112">4</div>
+			</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 60 */
+#n184_94 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n184_95 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -11px;
+		width: 1461px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 26 */
+	#n184_96 {
+		background: rgba(0, 0, 0, 0.2);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Vector 1 */
+	#n184_97 {
+		left: 1243px;
+		width: 73px;
+		top: 483px;
+		height: 50px;
+	}
+ 
+	/* Vector 2 */
+	#n184_98 {
+		left: 983px;
+		width: 32px;
+		top: 461px;
+		height: 22px;
+	}
+ 
+	/* Vector 3 */
+	#n184_99 {
+		left: 240px;
+		width: 33px;
+		top: 461px;
+		height: 20px;
+	}
+ 
+	/* Rectangle 27 */
+	#n184_100 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 501px;
+		width: 139px;
+		top: 284px;
+		height: 163px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_101 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 421px;
+		width: 48px;
+		top: 349px;
+		height: 55px;
+	}
+ 
+	/* Rectangle 29 */
+	#n184_102 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 375px;
+		width: 265px;
+		top: 52px;
+		height: 50px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_103 {
+		background: rgba(111, 136, 92, 0.8);
+		width: 1450px;
+		top: 247px;
+		height: 249px;
+	}
+ 
+	/* Rectangle 30 */
+	#n184_104 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 207px;
+		width: 376px;
+		top: 581px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 31 */
+	#n184_105 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 202px;
+		width: 376px;
+		top: 763px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 32 */
+	#n184_106 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 801px;
+		width: 376px;
+		top: 581px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 33 */
+	#n184_107 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 796px;
+		width: 376px;
+		top: 763px;
+		height: 114px;
+	}
+ 
+	/* How many brains does Octupuses have? */
+	#n184_108 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1402px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 358px;
+		left: 25px;
+		top: 188px;
+	}
+ 
+	/* 8 */
+	#n184_109 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 44px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 74px;
+		left: 368px;
+		top: 783px;
+	}
+ 
+	/* 9 */
+	#n184_110 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 41px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 74px;
+		left: 371px;
+		top: 601px;
+	}
+ 
+	/* 12 */
+	#n184_111 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 71px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 74px;
+		left: 953px;
+		top: 601px;
+	}
+ 
+	/* 4 */
+	#n184_112 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 41px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 74px;
+		left: 963px;
+		top: 783px;
+	}
+</style>

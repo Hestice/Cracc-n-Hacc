@@ -1,0 +1,255 @@
+<!-- Desktop - 31 -->
+<div class="frame" id="n148_185">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n148_186"></div>
+	<!-- Rectangle 26 -->
+	<div class="left top rectangle" id="n148_187"></div>
+	<!-- Vector 1 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b714/0037/7e1bf3647c37f06f3d7e946dc02a90e2" width="73" height="50" class="left top vector" id="n148_188">
+		<!-- Vector 2 -->
+		<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ee5d/e90d/76ed4f65b197049006f9d1d1d8d68f90" width="32" height="22" class="left top vector" id="n148_189">
+			<!-- Vector 3 -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/747e/b27f/1e9e7511fee46a4fecdd8c7cdf76c389" width="33" height="20" class="left top vector" id="n148_190">
+				<!-- Rectangle 27 -->
+				<div class="left top rectangle" id="n148_191"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n148_192"></div>
+				<!-- Rectangle 29 -->
+				<div class="left top rectangle" id="n148_193"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n148_293"></div>
+				<!-- Rectangle 30 -->
+				<div class="left top rectangle" id="n148_301"></div>
+				<!-- Rectangle 31 -->
+				<div class="left top rectangle" id="n148_302"></div>
+				<!-- Rectangle 32 -->
+				<div class="left top rectangle" id="n148_303"></div>
+				<!-- Rectangle 33 -->
+				<div class="left top rectangle" id="n148_304"></div>
+				<!-- How many ribs are in a human body? -->
+				<div class="left top text" id="n148_300">How many ribs are in a human body?</div>
+				<!-- 24 Ribs -->
+				<div class="left top text" id="n151_141">24 Ribs</div>
+				<!-- 32 Ribs -->
+				<div class="left top text" id="n151_144">32 Ribs</div>
+				<!-- 26 Ribs -->
+				<div class="left top text" id="n151_145">26 Ribs</div>
+				<!-- 28 Ribs -->
+				<div class="left top text" id="n151_146">28 Ribs</div>
+			</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 31 */
+#n148_185 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n148_186 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -11px;
+		width: 1461px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 26 */
+	#n148_187 {
+		background: rgba(0, 0, 0, 0.2);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Vector 1 */
+	#n148_188 {
+		left: 1243px;
+		width: 73px;
+		top: 483px;
+		height: 50px;
+	}
+ 
+	/* Vector 2 */
+	#n148_189 {
+		left: 983px;
+		width: 32px;
+		top: 461px;
+		height: 22px;
+	}
+ 
+	/* Vector 3 */
+	#n148_190 {
+		left: 240px;
+		width: 33px;
+		top: 461px;
+		height: 20px;
+	}
+ 
+	/* Rectangle 27 */
+	#n148_191 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 501px;
+		width: 139px;
+		top: 284px;
+		height: 163px;
+	}
+ 
+	/* Rectangle 28 */
+	#n148_192 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 421px;
+		width: 48px;
+		top: 349px;
+		height: 55px;
+	}
+ 
+	/* Rectangle 29 */
+	#n148_193 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 375px;
+		width: 265px;
+		top: 52px;
+		height: 50px;
+	}
+ 
+	/* Rectangle 28 */
+	#n148_293 {
+		background: rgba(111, 136, 92, 0.8);
+		width: 1450px;
+		top: 284px;
+		height: 249px;
+	}
+ 
+	/* Rectangle 30 */
+	#n148_301 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 207px;
+		width: 376px;
+		top: 618px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 31 */
+	#n148_302 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 202px;
+		width: 376px;
+		top: 800px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 32 */
+	#n148_303 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 801px;
+		width: 376px;
+		top: 618px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 33 */
+	#n148_304 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 796px;
+		width: 376px;
+		top: 800px;
+		height: 114px;
+	}
+ 
+	/* How many ribs are in a human body? */
+	#n148_300 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1402px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 358px;
+		left: 25px;
+		top: 225px;
+	}
+ 
+	/* 24 Ribs */
+	#n151_141 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 148px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 316px;
+		top: 838px;
+	}
+ 
+	/* 32 Ribs */
+	#n151_144 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 146px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 318px;
+		top: 656px;
+	}
+ 
+	/* 26 Ribs */
+	#n151_145 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 148px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 925px;
+		top: 830px;
+	}
+ 
+	/* 28 Ribs */
+	#n151_146 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 148px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 925px;
+		top: 656px;
+	}
+</style>

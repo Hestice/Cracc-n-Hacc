@@ -1,0 +1,110 @@
+<!-- Desktop - 6 -->
+<div class="frame" id="n11_0">
+	<!-- Rectangle 7 -->
+	<div class="left top rectangle" id="n11_3"></div>
+	<!-- pixel-speech-bubble (1) 4 -->
+	<div class="left top rectangle" id="n12_22"></div>
+	<!-- Rectangle 11 -->
+	<div class="left top rectangle" id="n12_12"></div>
+	<!-- You are a Hooligan! hooligans have different tasks that differs from bystanders and deviants -->
+	<div class="left top text" id="n12_13">You are a Hooligan!<br>hooligans have different tasks that differs from bystanders and deviants &nbsp;&nbsp;<br> &nbsp;
+	</div>
+	<!-- Rectangle 13 -->
+	<div class="left top rectangle" id="n104_11"></div>
+	<!-- pixel-speech-bubble (3) 1 -->
+	<div class="left top rectangle" id="n11_4"></div>
+	<!-- izzy1 1 -->
+	<div class="left top rectangle" id="n148_137"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 6 */
+#n11_0 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 7 */
+	#n11_3 {
+		background: rgb(116, 84, 136);
+		width: 1474px;
+		height: 1002px;
+	}
+ 
+	/* pixel-speech-bubble (1) 4 */
+	#n12_22 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/bddd/43fc/fc76443a0bf168d691d202763db168f9?Expires=1607299200&Signature=DiBE3huYLFJ21Y0n5P~O5Fl9wjY~VvWPbAMCm0N2oolWg1nPXkjH-hYCyHrSHCy8jtKxlWRVbLSIYAkSYV-a1YKOpVsa4gLJKpBiZwRKnHDjY7c6JYAWRQXOhF1P0Tqonzwiy90s3nZEL4DAXpa8xo2dEt3L0Pw68WX~sZL55WOTJjE7RHx~Koiml8PwchL9523N-dUt36L9Eqou26zX4ie-Knirkth2a4WgON98YHBstmseGYnncT4XNGFHth8DEnZ9De-76g06M5p-UiOhSzmN0Pj8ZTUjsVLl1LnJ9D-Sq5Zt53m8P~rvbWYCBElMshDmue0CYFoRMDbTZlZeAA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 972px;
+		width: 314px;
+		top: 798px;
+		height: 166px;
+	}
+ 
+	/* Rectangle 11 */
+	#n12_12 {
+		background: rgb(255, 255, 255);
+		left: 844px;
+		width: 541px;
+		top: 431px;
+		height: 327px;
+	}
+ 
+	/* You are a Hooligan! hooligans have different tasks that differs from bystanders and deviants */
+	#n12_13 {
+		font-family: Kreon;
+		font-size: 48px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 488px;
+		transform: translate(0px, 0px);
+		line-height: 56.25px;
+		height: 301px;
+		left: 879px;
+		top: 457px;
+	}
+ 
+	/* Rectangle 13 */
+	#n104_11 {
+		background: rgb(116, 84, 136);
+		left: 798px;
+		width: 661px;
+		top: 411px;
+		height: 367px;
+	}
+ 
+	/* pixel-speech-bubble (3) 1 */
+	#n11_4 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/54c5/a55c/3650aee0d04e81c8aa45a0805141c5c5?Expires=1607299200&Signature=c3bRsC0D6aP90fd~suivhCsJTxGlfk0YPCOmu~r~wjR4mFFVHV612K3vgQD9v8bckBy~iwUtufmsrlHqIC~WRTzlO9AlOGrZ2gKbsYDZoKlQ98gh28nl6pKljLQHCS8h9DuBxmhnAeGgkEgwoPQir-zAmjKXePmDHDYJ1zbZPrmORQWBVCpHNoP496jzBgQLrjCpFBcdcvOTJFf50lV-V9tZWKTpma~SU-~SHMuoTPEhBb8IaOca8dP49JNqSbR-ymZwQUJoPjxCTfnWySQbBeSac8gS~73aSmFIzlP42HRYrceFuJvFVRXxYnE8MU1TFzyQNVCldEzuBT1Tz3LM3g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 895px;
+		width: 440px;
+		top: 411px;
+		height: 242px;
+	}
+ 
+	/* izzy1 1 */
+	#n148_137 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/51c7/9c48/96084134a223b7598d44bc24c61211bb?Expires=1607299200&Signature=fhcxSuK-jWzGsBsXGXvLeVyJ3dGzKxMUl4zAy5W~M4a6eDyUItlIUZdhTOut7Y0EovZSOXHsp~pCgShNJxGBz4R~2vZHjw6EvOfYoFSZpgGGUsZ4yk7~IHAfaKR8E5Nzr0b3eu9Orah2wpscICf40w0x4yXRHW9kbMS1jZBAfxiKHIHFMH4ImtRJtCwhGcpSl0X7BEZrT3vNdwaD7CYyNBBDK72EngXGuE7k2Td6Dsv8HVtnXxps45wH5~vKHJS9YNcUScolBitjSdNxaxKJPxOuHBgKXv6woYgyo1VkjS1Ppvqj9mU6CqZK66QMMw6Gr1oI5AXBbQbP8fYg17kN-Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -191px;
+		width: 1306px;
+		top: 106px;
+		height: 915px;
+	}
+</style>

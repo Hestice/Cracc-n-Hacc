@@ -1,0 +1,97 @@
+<!-- Frame 4 -->
+<div class="frame" id="n171_29">
+	<!-- Play with ur frends wit diskorhd -->
+	<div class="left top text" id="n171_32">Play with ur frends wit diskorhd</div>
+	<!-- Frame 5 -->
+	<div class="frame" id="n175_22"></div>
+	<!-- pixel-speech-bubble (2) 4 -->
+	<div class="left top rectangle" id="n175_25"></div>
+	<!-- diskord 1 -->
+	<div class="left top rectangle" id="n175_27"></div>
+	<!-- Rectangle 19 -->
+	<div class="left top rectangle" id="n184_286"></div>
+	<!-- Frame 7 -->
+	<div class="frame" id="n184_359"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Frame 4 */
+#n171_29 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Play with ur frends wit diskorhd */
+	#n171_32 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1093px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 74px;
+		left: 198px;
+		top: 381px;
+	}
+ 
+	/* Frame 5 */
+	#n175_22 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 267px;
+		top: 186px;
+	}
+ 
+	/* pixel-speech-bubble (2) 4 */
+	#n175_25 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0f30/6a5e/9306cb28e3c2e50e315cdd265ad4384e?Expires=1607299200&Signature=XfgyPv-pzz5nkhN3KOp8gyP~Vta5-NQIn6wZTtAUsyxs3nzGR9-MfgmDBVAStRdMkUtZYhwjtO5T0WO6eX8dnIG3y6bfGK0~iscBXJe5jssAmdqH9Ow2F9kBd8als9MXDWQP6M3Vum0kQmrZqGLlOZbBanirQGxh8nUg1lOCTlAjWCM3D77CLlnF9TpqJhih-ZKpzqj89yn29wao5XIaogd3AR9OR-v~gePbT7yksLodHp3TBu0JyKVa04bbNHHG54Yq-OHOQgTqOb0xVXXwWEUoXMyDivwxvjNKk76uyOI71~Nah1y~uieaDI-~Qs4d7ENE7U-s-go3col5ZLVOHQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 39px;
+		width: 167px;
+		top: 772px;
+		height: 138px;
+	}
+ 
+	/* diskord 1 */
+	#n175_27 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d881/8dae/a750e4f976de20a5f9c09111ee6f29f1?Expires=1607299200&Signature=FXLNnre0X5ZSWBR3U4GrXbwxZrHONSRkjh2~t~jyvtDWSZGQPho3ZyzVh2nt~bjGIrXhFqQNaji7ff3rxbKz53lMaRFHYR~hionVFvBPU2KOBdzoPxtHBy1AG5TB2SBdUnblo~N0tcu5e25yMAoWjj8W7JYHATc0m4HB7EUC0fsVS0320duvVOuSflWV3cnoqSDfq6YgmA8vY60mDp4fpC-wZ7vwLmcZopYW3fAlCI9zMdbE2aAPplLm3Ffwe52MiHDdqgb~RBLdvgqiePewI-KI7gozoA62ZpuFVdNluOtcKAgkMX2bLL7SGQBCCUKPPkge6ahcxWfTM2MXGmPz3w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 610px;
+		width: 220px;
+		top: 497px;
+		height: 220px;
+	}
+ 
+	/* Rectangle 19 */
+	#n184_286 {
+		background: rgb(255, 255, 255);
+		left: 39px;
+		width: 252px;
+		top: 857px;
+		height: 107px;
+	}
+ 
+	/* Frame 7 */
+	#n184_359 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 902px;
+		top: 431px;
+	}
+</style>

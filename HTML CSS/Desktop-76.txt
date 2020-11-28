@@ -1,0 +1,113 @@
+<!-- Desktop - 76 -->
+<div class="frame" id="n184_273">
+	<!-- Rectangle 7 -->
+	<div class="left top rectangle" id="n184_274"></div>
+	<!-- Rectangle 11 -->
+	<div class="left top rectangle" id="n184_279"></div>
+	<!-- izzy2 1 -->
+	<div class="left top rectangle" id="n184_281"></div>
+	<!-- pixel-speech-bubble (17) 1 -->
+	<div class="left top rectangle" id="n192_46"></div>
+	<!-- pixel-speech-bubble (2) 4 -->
+	<div class="left top rectangle" id="n198_30"></div>
+	<!-- pixel-speech-bubble (19) 1 -->
+	<div class="left top rectangle" id="n198_35"></div>
+	<!-- izzy never run’s out of things to say (energy too), eivan is quick to retaliate every time she does impulsive decisions, still her opinions are always valid. just like aries and zy her antics gets the best of her. -->
+	<div class="left top text" id="n184_302">izzy never run’s out of things to say (energy too), eivan is quick to retaliate every time she does impulsive decisions, still her opinions are always valid. just like aries and zy her antics gets the best of her.</div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 76 */
+#n184_273 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 7 */
+	#n184_274 {
+		background: rgb(116, 84, 136);
+		left: -13px;
+		width: 1507px;
+		top: -113px;
+		height: 1137px;
+	}
+ 
+	/* Rectangle 11 */
+	#n184_279 {
+		background: rgb(255, 255, 255);
+		left: 815px;
+		width: 550px;
+		top: 489px;
+		height: 360px;
+	}
+ 
+	/* izzy2 1 */
+	#n184_281 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/e084/e79c/7581257cb49d66cba71a9ea14e852263?Expires=1607299200&Signature=IQH14WofZKh9z~uwEVD1h9puOEceCy0KIMesaSiO1~TUU06XJItJpRuIWE-1qgCILYTUxDuR-BTpFClN~ZOHKw1BwGksYHuctoRVK2CUdw5kNamUPcTmfv~~T5Jy3D4YftOjlcl8vjrJZC-FUtPLtxss1Gfyn5RkA-AlfFB1X~hjQM~~eVx-kHLIsikfBhKt341oa6C4WU1HXNb0BRumbzuk87JbfGzo856v1eQv0wqswvSdiPL6yRyroPPqCheGyyK7NYgWHAbbkArrJkhXctVdFAXec9GXgk-I2X7wpGKZoggxxSNcLKFhntv3-IjCx--QeNRr9B2ZaYkAJqQSzA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -293px;
+		width: 1306px;
+		top: 93px;
+		height: 931px;
+	}
+ 
+	/* pixel-speech-bubble (17) 1 */
+	#n192_46 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/1436/5849/837e9449ee38af1b92890e4c692a1554?Expires=1607299200&Signature=g58NgntYk3sNQ8BN57mrrLvK9awKbR3wvXuu5VTuByFI32TRNBX56auLrXrlaG7qLfGEbNAsbJtDkUhnUPf7ZdLySTZQjW3ouR7fXMisaJcnHP5tse0KRaUzaAOqjU9dKlDcQLGCVP3chiYXYRCa1Q8msPjc8lQOgjJFkJc47oC7QANZ7Do5Lak0yHFtPJJWXYTB5MG8al2jgTDJ~Btv2jlb6oErbmXLyY-h1RUtuSVAJhKPZkOsEskkeFI0hQEHw42xin3kQw4IlevwqD0JhV9XUf8Pp~4d~sbgN-n1E0-mR7SBeg3EIpXfyJfbAxwfzHFQMjwR~FDWlZtS2QPyZQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 937px;
+		width: 316px;
+		top: 148px;
+		height: 323px;
+	}
+ 
+	/* pixel-speech-bubble (2) 4 */
+	#n198_30 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0f30/6a5e/9306cb28e3c2e50e315cdd265ad4384e?Expires=1607299200&Signature=XfgyPv-pzz5nkhN3KOp8gyP~Vta5-NQIn6wZTtAUsyxs3nzGR9-MfgmDBVAStRdMkUtZYhwjtO5T0WO6eX8dnIG3y6bfGK0~iscBXJe5jssAmdqH9Ow2F9kBd8als9MXDWQP6M3Vum0kQmrZqGLlOZbBanirQGxh8nUg1lOCTlAjWCM3D77CLlnF9TpqJhih-ZKpzqj89yn29wao5XIaogd3AR9OR-v~gePbT7yksLodHp3TBu0JyKVa04bbNHHG54Yq-OHOQgTqOb0xVXXwWEUoXMyDivwxvjNKk76uyOI71~Nah1y~uieaDI-~Qs4d7ENE7U-s-go3col5ZLVOHQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 167px;
+		top: 10px;
+		height: 138px;
+	}
+ 
+	/* pixel-speech-bubble (19) 1 */
+	#n198_35 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f720/be68/bf1b14c6dbb0cd7a1cd8db7dd6e32217?Expires=1607299200&Signature=DsD3o3eSL15JBwffc9WtXiS49XFP3TQUe8rEXgtWQPrDo3~vIdB-Y5PuKKgZIT-78AQcUIlDLTSsToI7p4V4evgOQ2n8Yuf-6H0I72ioedKXlyUvtl6xxwgxPyyt7LnOdtEelKXd5vZLXa3eF08j9zjC2bg1L9SXXYkrlAR08YfD0Irgss4Lj8pk2xqPGx3iVxc4Ayl3cOO5LQzR9yhBSnlOWVEvvgdBkBr1BMcksKrRxi7LKwoiSqLyYsZQP4-kTywAhAgH7N~7SwqCKW4nXa4ITY66IZNuvoRomRUqqST2Os~c987-3S-MQgsgfiF1TSbJuBtZY1RV1ty~Z80JNg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1252px;
+		width: 185px;
+		top: 10px;
+		height: 158px;
+	}
+ 
+	/* izzy never run’s out of things to say (energy too), eivan is quick to retaliate every time she does impulsive decisions, still her opinions are always valid. just like aries and zy her antics gets the best of her. */
+	#n184_302 {
+		font-family: Kreon;
+		font-size: 36px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 507px;
+		align-items: center;
+		line-height: 42.1875px;
+		height: 275px;
+		left: 837px;
+		top: 536px;
+	}
+</style>

@@ -1,0 +1,121 @@
+<!-- Desktop - 7 -->
+<div class="frame" id="n12_0">
+	<!-- Rectangle 8 -->
+	<div class="left top rectangle" id="n12_4"></div>
+	<!-- pixel-speech-bubble (1) 4 -->
+	<div class="left top rectangle" id="n12_23"></div>
+	<!-- Rectangle 10 -->
+	<div class="left top rectangle" id="n12_9"></div>
+	<!-- Frame 1 -->
+	<div class="frame" id="n12_11"></div>
+	<!-- You are a Deviant! Deviants keeps his “teamates” from escaping the manor. -->
+	<div class="left top text" id="n12_10">You are a Deviant! &nbsp;&nbsp;&nbsp;<br>Deviants keeps his <br>“teamates” from escaping the manor. <br> &nbsp;
+	</div>
+	<!-- Rectangle 12 -->
+	<div class="left top rectangle" id="n102_12"></div>
+	<!-- pixel-speech-bubble (4) 1 -->
+	<div class="left top rectangle" id="n12_1"></div>
+	<!-- aries1 1 -->
+	<div class="left top rectangle" id="n148_33"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 7 */
+#n12_0 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 8 */
+	#n12_4 {
+		background: rgb(129, 127, 82);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* pixel-speech-bubble (1) 4 */
+	#n12_23 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/bddd/43fc/fc76443a0bf168d691d202763db168f9?Expires=1607299200&Signature=DiBE3huYLFJ21Y0n5P~O5Fl9wjY~VvWPbAMCm0N2oolWg1nPXkjH-hYCyHrSHCy8jtKxlWRVbLSIYAkSYV-a1YKOpVsa4gLJKpBiZwRKnHDjY7c6JYAWRQXOhF1P0Tqonzwiy90s3nZEL4DAXpa8xo2dEt3L0Pw68WX~sZL55WOTJjE7RHx~Koiml8PwchL9523N-dUt36L9Eqou26zX4ie-Knirkth2a4WgON98YHBstmseGYnncT4XNGFHth8DEnZ9De-76g06M5p-UiOhSzmN0Pj8ZTUjsVLl1LnJ9D-Sq5Zt53m8P~rvbWYCBElMshDmue0CYFoRMDbTZlZeAA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 161px;
+		width: 326px;
+		top: 806px;
+		height: 172px;
+	}
+ 
+	/* Rectangle 10 */
+	#n12_9 {
+		background: rgb(255, 255, 255);
+		left: 99px;
+		width: 510px;
+		top: 414px;
+		height: 301px;
+	}
+ 
+	/* Frame 1 */
+	#n12_11 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 401px;
+		top: 503px;
+	}
+ 
+	/* You are a Deviant! Deviants keeps his “teamates” from escaping the manor. */
+	#n12_10 {
+		font-family: Kreon;
+		font-size: 48px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 476px;
+		transform: translate(0px, 0px);
+		line-height: 56.25px;
+		height: 252px;
+		left: 121px;
+		top: 441px;
+	}
+ 
+	/* Rectangle 12 */
+	#n102_12 {
+		background: rgb(129, 127, 82);
+		left: 99px;
+		width: 510px;
+		top: 414px;
+		height: 301px;
+	}
+ 
+	/* pixel-speech-bubble (4) 1 */
+	#n12_1 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/861f/c3f9/415d11b573aa06104afd86b849516549?Expires=1607299200&Signature=I9iiS7xOMP1VQkhxmuorezwJdtMgUt-Z~r1KS6Rm8-BI87cWJmB-kc1ghka3P8l89DUhs87g1IG6BhNN9HoAcwQ5Da6nf7LEUeX7N-vLhdkLCkGp9avV4cQksqRj04Rw9ok~9EfCFXxLV1TCGefMtcubTYy5d8nu0CYMcpxOanrf6yG66tQNcERfY8v16ZDP4uLfxUGeP2WQ4CRyWjL71bQ4hioBRIhHVHKmFHM-9Wy7gYdkIf0fH0nB54pVgrGEqxzQphp2N5CudvXUy-J68DAnibwo85nVZe-wkgtnAKlH1zPJ0nDTJEfnpak7nV6TLAVHr52L0qRJ7hhXl6-LvQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 121px;
+		width: 407px;
+		top: 436px;
+		height: 233px;
+	}
+ 
+	/* aries1 1 */
+	#n148_33 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/5be1/9f87/a0b04ef27f81fdf2a3311e808a712a36?Expires=1607299200&Signature=L3s6ooKw5s2cM436NTxqIkqtfpIhlPKDxZwXoANyyImuKtwGmGIFI1JP5PAaz90~zg-AFlI8J2dYJLfkcZP31U9lS5f3LFDoG96P51CLu4RhHiwoJT9xyNtPP3T6gKPTl~oSYAxD0B4SsqGJ5xq~l6aAqT8qwGcE4ulCHX~I722LmwPuaqsJIbJ~qPQD3NCU2-D3oT~9YaZC2slbbpziWJrVpXszX-SXHasuN6u1sMZS4HDc9ZW8h-ky~yleZdvVL5BXCEujZipH2uNcknsxhCaYefUyc-uIxmjbgah3OOrIhr6XvVO0X0VtJkuTxE3fKwE56BxdUPWup4p5Lr6Rdw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 501px;
+		width: 926px;
+		top: 33px;
+		height: 991px;
+	}
+</style>

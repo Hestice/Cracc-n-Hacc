@@ -1,0 +1,256 @@
+<!-- Desktop - 59 -->
+<div class="frame" id="n184_75">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n184_76"></div>
+	<!-- Rectangle 26 -->
+	<div class="left top rectangle" id="n184_77"></div>
+	<!-- Vector 1 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/53f4/cdb6/9c2f71d5acc70f50b8f92ebd17bdcc4b" width="73" height="50" class="left top vector" id="n184_78">
+		<!-- Vector 2 -->
+		<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ee5d/e90d/76ed4f65b197049006f9d1d1d8d68f90" width="32" height="22" class="left top vector" id="n184_79">
+			<!-- Vector 3 -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/747e/b27f/1e9e7511fee46a4fecdd8c7cdf76c389" width="33" height="20" class="left top vector" id="n184_80">
+				<!-- Rectangle 27 -->
+				<div class="left top rectangle" id="n184_81"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_82"></div>
+				<!-- Rectangle 29 -->
+				<div class="left top rectangle" id="n184_83"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_84"></div>
+				<!-- Rectangle 30 -->
+				<div class="left top rectangle" id="n184_85"></div>
+				<!-- Rectangle 31 -->
+				<div class="left top rectangle" id="n184_86"></div>
+				<!-- Rectangle 32 -->
+				<div class="left top rectangle" id="n184_87"></div>
+				<!-- Rectangle 33 -->
+				<div class="left top rectangle" id="n184_88"></div>
+				<!-- What is the Genetic name code in each human cell? -->
+				<div class="left top text" id="n184_89">What is the Genetic name code in each human cell?</div>
+				<!-- DNA -->
+				<div class="left top text" id="n184_90">DNA</div>
+				<!-- Chromosome -->
+				<div class="left top text" id="n184_91">Chromosome</div>
+				<!-- RNA -->
+				<div class="left top text" id="n184_92">RNA</div>
+				<!-- Ribosome -->
+				<div class="left top text" id="n184_93">Ribosome</div>
+			</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 59 */
+#n184_75 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n184_76 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -11px;
+		width: 1461px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 26 */
+	#n184_77 {
+		background: rgba(0, 0, 0, 0.2);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Vector 1 */
+	#n184_78 {
+		left: 1243px;
+		width: 73px;
+		top: 483px;
+		height: 50px;
+	}
+ 
+	/* Vector 2 */
+	#n184_79 {
+		left: 983px;
+		width: 32px;
+		top: 461px;
+		height: 22px;
+	}
+ 
+	/* Vector 3 */
+	#n184_80 {
+		left: 240px;
+		width: 33px;
+		top: 461px;
+		height: 20px;
+	}
+ 
+	/* Rectangle 27 */
+	#n184_81 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 501px;
+		width: 139px;
+		top: 284px;
+		height: 163px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_82 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 421px;
+		width: 48px;
+		top: 349px;
+		height: 55px;
+	}
+ 
+	/* Rectangle 29 */
+	#n184_83 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 375px;
+		width: 265px;
+		top: 52px;
+		height: 50px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_84 {
+		background: rgba(111, 136, 92, 0.8);
+		left: -11px;
+		width: 1450px;
+		top: 247px;
+		height: 249px;
+	}
+ 
+	/* Rectangle 30 */
+	#n184_85 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 196px;
+		width: 376px;
+		top: 581px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 31 */
+	#n184_86 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 191px;
+		width: 376px;
+		top: 763px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 32 */
+	#n184_87 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 790px;
+		width: 376px;
+		top: 581px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 33 */
+	#n184_88 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 785px;
+		width: 376px;
+		top: 763px;
+		height: 114px;
+	}
+ 
+	/* What is the Genetic name code in each human cell? */
+	#n184_89 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1402px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 358px;
+		left: 19px;
+		top: 210px;
+	}
+ 
+	/* DNA */
+	#n184_90 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 85px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 332px;
+		top: 801px;
+	}
+ 
+	/* Chromosome */
+	#n184_91 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 270px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 244px;
+		top: 619px;
+	}
+ 
+	/* RNA */
+	#n184_92 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 85px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 930px;
+		top: 801px;
+	}
+ 
+	/* Ribosome */
+	#n184_93 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 200px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 883px;
+		top: 619px;
+	}
+</style>

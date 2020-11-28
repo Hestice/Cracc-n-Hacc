@@ -1,0 +1,82 @@
+<!-- Frame 2 -->
+<div class="frame" id="n12_18">
+	<!-- Rectangle 8 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e868/1c42/9c44db19c47900d305c823edda403c6b" width="1459" height="1041" class="left top vector" id="n179_27">
+		<!-- Rectangle 39 -->
+		<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/acd8/c6fa/e8f919c5277b511dc21021b010f13d07" width="1459" height="741" class="left top vector" id="n192_29">
+			<!-- You’re a bystander! be careful on who to trust and know your teammates, don’t go wild on doing assigments and think it through, find who’s thedeviant and vote him out if you can. -->
+			<div class="left top text" id="n203_36">You’re a bystander!<br>be careful on who to trust and know your teammates, don’t go wild on doing <br>assigments and think it through, <br>find who’s thedeviant and<br> vote him out if you can.
+			</div>
+			<!-- pixel-speech-bubble (2) 4 -->
+			<div class="left top rectangle" id="n192_37"></div>
+			<!-- clik 1 -->
+			<div class="left top rectangle" id="n213_28"></div>
+		</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Frame 2 */
+#n12_18 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 8 */
+	#n179_27 {
+		width: 1459px;
+		height: 1041px;
+	}
+ 
+	/* Rectangle 39 */
+	#n192_29 {
+		width: 1459px;
+		top: 150px;
+		height: 741px;
+	}
+ 
+	/* You’re a bystander! be careful on who to trust and know your teammates, don’t go wild on doing assigments and think it through, find who’s thedeviant and vote him out if you can. */
+	#n203_36 {
+		font-family: "Krona One";
+		font-size: 50px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1315px;
+		transform: translate(0px, 0px);
+		line-height: 58.5938px;
+		height: 546px;
+		left: 88px;
+		top: 345px;
+	}
+ 
+	/* pixel-speech-bubble (2) 4 */
+	#n192_37 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/63d0/b522/4e3a4bd23e7a867cc246474164bebcd2?Expires=1607299200&Signature=HOaNux36UBmI4hM7Vg2gsbmY2fZuwEod~HOcv6heELK8CBis1UfYUA2fE6WEXWwcY7NcoQMT889w0fv83OeA~XjxytL~BZ6lBQ0cx4oB2g6k98rYQ0pNIyBCF8PH29OPJJzzwcI3uCdke7a-bVp14TjPd~FEnPcB4b~S6~xeWUGAAH83CbXvjYosSfNWySJrxE6WKq-g6EOm2TvODLy4Lxr9WbUuNzNsFHC-M3gULxBzq3qgYBHv4hZOzcNJLkpFmN0cGvOJeIfP~c7J6It~bw406ujmR1i8KHiCfKIno2rApn3tMVb~dmmZSsO6NrrW8DjKbB9PiZj7YOPvLW-pvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 92px;
+		width: 510px;
+		top: 47px;
+		height: 258px;
+	}
+ 
+	/* clik 1 */
+	#n213_28 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/a887/c90d/c318af3d4faf83b9206fa90edb91e9db?Expires=1607299200&Signature=HKR1DlB7N0leq4FEzj8rdzNnxz7utBZ09c-vW2aEwuf6~6kcWzJzo0bQ0fG44vfMLBXvbR4YC~lX82QhbLl28KMQ6qgA0vq1uaV9Oab-QV85g34dR0Z6nIdIqtJWBqQdyPSBX4WZWy9gvd0cDotvtK~1Kx0lINDHMYJi2QatYktPrDcWNN5RLpC1RGOoKl7KaGNk4qP6WkB5T7EbM4Gi3KnZaXjzeZLxOUjaTEMQNHNDil9btcnrBnjCzfjVcsOynR-xEnMXItYxMGK-oMMeZg98eVeLg1uo~10Spbcy5NNg9CblaqmVY7svnsbrPETacGJNsyc9t23suTfKMjJsEw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1019px;
+		width: 368px;
+		top: 855px;
+		height: 36px;
+	}
+</style>

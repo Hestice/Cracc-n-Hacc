@@ -1,0 +1,211 @@
+<!-- Desktop - 83 -->
+<div class="frame" id="n184_361">
+	<!-- Rectangle 5 -->
+	<div class="left top rectangle" id="n184_362"></div>
+	<!-- image 1 -->
+	<div class="left top rectangle" id="n184_364"></div>
+	<!-- pixel-speech-bubble (6) 1 -->
+	<div class="left top rectangle" id="n184_365"></div>
+	<!-- Rectangle 16 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/c15b/ef6e/09747bc98b000ff11bff7b346b338af5" width="264" height="100" class="left top vector" id="n184_366">
+		<!-- Rectangle 18 -->
+		<div class="left top rectangle" id="n184_369"></div>
+		<!-- Rectangle 17 -->
+		<div class="left top rectangle" id="n184_370"></div>
+		<!-- Ellipse 1 -->
+		<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/655f/ac61/345cda2f6656771af18ebc46b74e3e03" width="68" height="68" class="left top vector" id="n184_371">
+			<!-- girr 1 -->
+			<div class="left top rectangle" id="n184_372"></div>
+			<!-- ver.0.0.1//prototype -->
+			<div class="left top text" id="n184_373">ver.0.0.1//prototype</div>
+			<!-- dike 1 -->
+			<div class="left top rectangle" id="n184_374"></div>
+			<!-- Rectangle 46 -->
+			<div class="left top rectangle" id="n184_378"></div>
+			<!-- Thank You for trying our Beta! -->
+			<div class="left top text" id="n184_379">Thank You for &nbsp;trying our Beta! </div>
+			<!-- pixel-speech-bubble (22) 1 -->
+			<div class="left top rectangle" id="n220_53"></div>
+			<!-- Rectangle 47 -->
+			<div class="left top rectangle" id="n220_54"></div>
+			<!-- Rectangle 48 -->
+			<div class="left top rectangle" id="n220_55"></div>
+		</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 83 */
+#n184_361 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 5 */
+	#n184_362 {
+		background: rgb(0, 3, 27);
+		width: 1440px;
+		top: -24px;
+		height: 1048px;
+	}
+ 
+	/* image 1 */
+	#n184_364 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d63f/b236/da1aa37d66bd2de54463e71530130222?Expires=1607299200&Signature=Qw3vlQy~nNvXAc6KTq2~VZhjWUg6IPLSX9pufhzYYQC0bzcsY8jVGw3Aettb4DpsrUxDp0KmV6YD1M7db~j0jKALINx-Pt0~4TTYazsgbbyxstZL1gOPlQFVvk-~n1KEwkAFf~fdutyZFRo0vv8fe9jVc~DNy31GullktFZmCXpb-KWVV83Jvsx8aGmATNVx77Q1H8hL9A8Mv8rx1ftrnV-H6YBhvDD4~d5AxL-FocQviqyEUfS8rq1AA75uePKcoc8LVqaacCqw5JzjIB9ZaTzneokvdQOIqnlddRgQL9NhXngdjf4UM-7~UeksC9e~w0N6mS1bpwPsLG-SkyJslQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 1440px;
+		top: 260px;
+		height: 557px;
+	}
+ 
+	/* pixel-speech-bubble (6) 1 */
+	#n184_365 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/c985/c44d/321f871bdb6f81a3cf45f60be6bbe054?Expires=1607299200&Signature=VAqQ7IDlHKRMqvbIMoLpnn9wIrSdO2PiE5FJf7abak9P0iuea9EPxQOURfQr6d~4BV1mkgTp2mHrhPojJ6kAd2jeplrzMCoeG9b7TTfpjnKzmwSxfqySjWnHwqEiyIF-Dz38arbrmZB7o99H3J4n6UCn-jDHRti5wosPhQu3l~mjKRJ-~hWna5QuI8vQ0yp8EDTf85fyL~rf39mbYAL7O1OLxYHUCPg51VWb0aivEADorPEpBZpVYn8yFTHj6ZTK1TTGtDnBErFfit2QBYt0NpGqb5t8fyVqe7BO82wEGp2rnvF-DeRQEi3CJLmJgYeNSC6oJwUJdNLSWx2qRkWznA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 381px;
+		width: 762px;
+		top: 110px;
+		height: 272px;
+	}
+ 
+	/* Rectangle 16 */
+	#n184_366 {
+		left: 577px;
+		width: 264px;
+		top: 904px;
+		height: 100px;
+	}
+ 
+	/* Rectangle 18 */
+	#n184_369 {
+		background: rgb(0, 3, 27);
+		left: 1011px;
+		width: 264px;
+		top: 896px;
+		height: 100px;
+	}
+ 
+	/* Rectangle 17 */
+	#n184_370 {
+		background: rgb(0, 3, 27);
+		left: 143px;
+		width: 264px;
+		top: 896px;
+		height: 100px;
+	}
+ 
+	/* Ellipse 1 */
+	#n184_371 {
+		left: 25px;
+		width: 68px;
+		top: 17px;
+		height: 68px;
+	}
+ 
+	/* girr 1 */
+	#n184_372 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/6105/6e6f/a4963f5e7124aa333c1cc8fbb2c1bf18?Expires=1607299200&Signature=WtGlSmw2i5fONp1xlHABY5qMhUcvN1RNaOyB3P0-9T2DUgw41xPGRuOG8snbOVg1JAj6bO2ZUv~ZncfvtRyjVmsDbt~E8KIUjAHVuY1DwC7a7eRaE73CymB~UiomhbQ-~-H-dOMCD99ADfSnpHa6S23zOoiDcw97gKdy3ue~2TbjQEvI~w3t9FOQ6mYpK3xMlBLrWHATlcYx5Ipm1OaxxofoSmFTUoDGwS-6qsEgo5S14504IWaNYH3RuqajaBmixj-EjfxnMWia6N940Z7MYk5eoUWx0oGREoyaxtOtd-~zhVYK5rjajpq9Z7-dHOksdZH9glXaJMCC3Yhwk8WWnA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		border-radius: 49px;
+		left: 12px;
+		width: 94px;
+		top: 5px;
+		height: 80px;
+	}
+ 
+	/* ver.0.0.1//prototype */
+	#n184_373 {
+		font-family: "Krona One";
+		font-size: 28px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgba(18, 13, 246, 0.47);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 385px;
+		transform: translate(0px, 0px);
+		line-height: 32.8125px;
+		height: 35px;
+		left: 1035px;
+		top: 971px;
+	}
+ 
+	/* dike 1 */
+	#n184_374 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/402c/0ec2/f4a10136e9f2a07a026e9591cc171716?Expires=1607299200&Signature=ekGXkRbue~OQ95oAFH1egmQx~p3uV0-g5j~ERdS0euADcK-rPiv5CVSHXDggimeklRKr2bt55hNFdzB6ufxDdhmZQ2y4k7Ei6z9mWm3OWCS3CW-TuhSaGsSjh7KmVKKkJUou5U-EmprYgykBzRmIZ-KgBTNSFabzivMshqUJ7EKrST-rVzm1ieajfKyZDoB892swXGB6~z6aCI1lrW4XlL03et-y6605dAeORBtD3TJzykgxfo6VRNKyFQMnwNACdQchdISa7xO~mXiAJ-vcXecImlr81d0hRJ19bPZ7yxrlBPNC4fs6PlBXpXymxde3JdKZGjn3Wze1mkWJB24Xtg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		border-radius: 112.5px;
+		left: 21px;
+		width: 76px;
+		top: 110px;
+		height: 71px;
+	}
+ 
+	/* Rectangle 46 */
+	#n184_378 {
+		background: rgb(196, 196, 196);
+		width: 1440px;
+		top: 432px;
+		height: 288px;
+	}
+ 
+	/* Thank You for trying our Beta! */
+	#n184_379 {
+		font-family: "Krona One";
+		font-size: 64px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1275px;
+		transform: translate(0px, 0px);
+		line-height: 75px;
+		height: 80px;
+		left: 93px;
+		top: 539px;
+	}
+ 
+	/* pixel-speech-bubble (22) 1 */
+	#n220_53 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0df0/8b95/ce070e5ce10134583fa2f36e806d2feb?Expires=1607299200&Signature=C7Ztr2zruTeH7bbkyNB-O50844HO0vcFOxhznINRt3zJVutcGpuikbrdRkVj~PMxZUgeSCVTG5A2NEnTmhHB7zoFR4mW-6lQXnELAwm1O7bczPl1zArubtOrspji4hs7xuiJXnOvZ24e2DdeMFmAaP0d6Tp1lGp7HxwIeYIIiDu-DGahh9tj9PfLxO4W3cRF~7C-A20IhCwDEzguA0E4MfUuHilOZnh1Iug0EIv22uy37IElXMyf~FHO5qGdbyknODNhe1xLYFeJRSYIhGRDJwk0LWWx~NkfnZObzmoFg6-uS2CXpbRNqMeTHfGTT9Z~p7WKIBtyDEKxd3DcKNk21A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 577px;
+		width: 288px;
+		top: 817px;
+		height: 180px;
+	}
+ 
+	/* Rectangle 47 */
+	#n220_54 {
+		background: rgb(0, 3, 27);
+		left: 653px;
+		width: 95px;
+		top: 925px;
+		height: 53px;
+	}
+ 
+	/* Rectangle 48 */
+	#n220_55 {
+		background: rgb(0, 0, 0);
+		left: 685px;
+		width: 28px;
+		top: 916px;
+		height: 9px;
+	}
+</style>

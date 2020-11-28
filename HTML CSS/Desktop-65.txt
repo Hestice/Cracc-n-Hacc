@@ -1,0 +1,83 @@
+<!-- Desktop - 65 -->
+<div class="frame" id="n184_175">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n184_176"></div>
+	<!-- Rectangle 15 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/aca7/15b6/2cce10f1d26f92846992ed8dcfa391d6" width="1440" height="1031" class="left top vector" id="n184_177">
+		<!-- Rectangle 26 -->
+		<div class="left top rectangle" id="n184_178"></div>
+		<!-- Vector 2 -->
+		<div class="component left top instance" id="n184_179">
+			<!-- Vector 2 -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f5a3/9b66/68765d4782cfdca751eecabc4ab7e9de" width="32" height="22" class="scale vector" id="nI184_179-148_152"></div>
+			<!-- Vector 3 -->
+			<div class="component left top instance" id="n184_180">
+				<!-- Vector 3 -->
+				<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b4e8/bdbe/148f695641196fac3aadea1f9768b8d7" width="33" height="20" class="scale vector" id="nI184_180-148_153"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_181"></div>
+			</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 65 */
+#n184_175 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n184_176 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -11px;
+		width: 1461px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 15 */
+	#n184_177 {
+		left: -11px;
+		width: 1440px;
+		top: -8px;
+		height: 1031px;
+	}
+ 
+	/* Rectangle 26 */
+	#n184_178 {
+		background: rgba(0, 0, 0, 0.2);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Vector 2 */
+	#n184_179 {
+		width: 32px;
+		height: 22px;
+		left: 983px;
+		top: 461px;
+	}
+ 
+	/* Vector 3 */
+	#n184_180 {
+		width: 33px;
+		height: 20px;
+		left: 216px;
+		top: 427px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_181 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 421px;
+		width: 48px;
+		top: 349px;
+		height: 55px;
+	}
+</style>

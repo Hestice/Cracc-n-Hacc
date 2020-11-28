@@ -1,0 +1,122 @@
+<!-- Desktop - 75 -->
+<div class="frame" id="n184_264">
+	<!-- Rectangle 6 -->
+	<div class="left top rectangle" id="n184_265"></div>
+	<!-- Rectangle 10 -->
+	<div class="left top rectangle" id="n184_266"></div>
+	<!-- Frame 3 -->
+	<div class="frame" id="n184_271"></div>
+	<!-- cus2 1 -->
+	<div class="left top rectangle" id="n184_272"></div>
+	<!-- pixel-speech-bubble (14) 1 -->
+	<div class="left top rectangle" id="n192_43"></div>
+	<!-- pixel-speech-bubble (9) 1 -->
+	<div class="left top rectangle" id="n198_28"></div>
+	<!-- pixel-speech-bubble (19) 2 -->
+	<div class="left top rectangle" id="n198_38"></div>
+	<!-- Cseth is the crew’s Leader, he usually stops the fights and listens to everybody’s opinions, the last say is always on him, He’s really dependable and optimistic to finish things the right way. -->
+	<div class="left top text" id="n184_301">Cseth is the crew’s Leader, he usually stops the fights and listens to everybody’s opinions, the last say is always on him, He’s really dependable and optimistic to finish things the right way.</div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 75 */
+#n184_264 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(243, 205, 205);
+}
+ 
+	/* Rectangle 6 */
+	#n184_265 {
+		background: rgb(249, 173, 173);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 10 */
+	#n184_266 {
+		background: rgb(255, 255, 255);
+		left: 833px;
+		width: 527px;
+		top: 486px;
+		height: 362px;
+	}
+ 
+	/* Frame 3 */
+	#n184_271 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: -27px;
+		top: 446px;
+	}
+ 
+	/* cus2 1 */
+	#n184_272 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/23c8/cad4/d9c1828b981af35164ec7d2b645b5c5a?Expires=1607299200&Signature=UY2183~65v5NxK6KVDfBJ7r4vWMHeAPlBvy3iNdhc66cdtCKvbBpG0Jl1tmLWtcCoOZYFUcJ0wzV2-MLCxtHS9ciAl~xqAUt8NYWpRH12CJGDLPsm4q4reTSuvrhWW~jZQpZd04WhRUsCJF0YETJpYVGVWF86DPCTKNqWnzNKA1pnQJKN~ZBRky4~GGl7Dl5O4i3jLqwC3~-0sO-hadLqLK7nFlsf-oCa9cIhSUpkPBUpCtdNedkU3lGd24g3UTQJhx3xTMs-OPvGAK4riSpAYFkBA~AfxOvQtiASSF-nNuM5hE5sDebLst7QX1J4~Ap1IIMY4f84ovZGBKalD9TWQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -115px;
+		width: 1105px;
+		top: 67px;
+		height: 958px;
+	}
+ 
+	/* pixel-speech-bubble (14) 1 */
+	#n192_43 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/b5f0/3abf/b532c617e6c7cbf7c3b09858b4e55452?Expires=1607299200&Signature=egFHZGgQ-VqDuAONiRUQhHhqSr1nwCIh0n00yZ9yLbojugBvareNFcaF6SCSOxn6YbUUnEv2Yg~aBbI46OHtZ~cliZ3zTymOVtdPc3cSISGFMrZlFWGIXHNWrCWIdTBfK7PJwTp1n7UywZiFdkddPGHyajYOCxsBNZLCq2iEmbMcyq2OBFcCnoCjN5E9ghYY2CV8Fl5W2E9jxyqj9AV0emRsl7VpNJ~i~I~Z86lebufTDIPCmWlSRMy-nVHsqaL3fP1jnAaUj~pYMWjtFoSpFo8CWPhPpW3sFPexsblKfwko1yjb94XwPOunllNx-4-5pntVslIKfOkXrwfCiHGxmQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 919px;
+		width: 334px;
+		top: 152px;
+		height: 320px;
+	}
+ 
+	/* pixel-speech-bubble (9) 1 */
+	#n198_28 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/489e/1fde/b1b1dd91eb5a370ed4a6460b22ef6afc?Expires=1607299200&Signature=DYLJA-QSj~AWCRVNMpNrcGjVbYBpnHrqzqVRX1Qa3icTHcclh8HnrFwHPxNhH19rNcDq~Hr7oqavxlNzsdx6FQes~K-5j~qPrBIRVNrudO8ls2nAFZovmpch4EEWEIw-tGRLhrT5vRcBMJjJ2rdzwl1XGTPzR-WqAa0bcko7w-QRrop7Ev1I9ZWbdHg-Zz8CIieQnx2ZOWO32CLPhnVHTzKIcrZXaKPQBRHlREAHNMEiAI5O9eN-KUST8Dl9oRrP45uNENWDnYxHnFYh3Dnn80Dl60NxGsCMf5ahXQyGHTTM0GDs~XWro8-zCmBgItBXulvExvv3zA5mYuKZq0-FvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 167px;
+		top: 14px;
+		height: 138px;
+	}
+ 
+	/* pixel-speech-bubble (19) 2 */
+	#n198_38 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f720/be68/bf1b14c6dbb0cd7a1cd8db7dd6e32217?Expires=1607299200&Signature=DsD3o3eSL15JBwffc9WtXiS49XFP3TQUe8rEXgtWQPrDo3~vIdB-Y5PuKKgZIT-78AQcUIlDLTSsToI7p4V4evgOQ2n8Yuf-6H0I72ioedKXlyUvtl6xxwgxPyyt7LnOdtEelKXd5vZLXa3eF08j9zjC2bg1L9SXXYkrlAR08YfD0Irgss4Lj8pk2xqPGx3iVxc4Ayl3cOO5LQzR9yhBSnlOWVEvvgdBkBr1BMcksKrRxi7LKwoiSqLyYsZQP4-kTywAhAgH7N~7SwqCKW4nXa4ITY66IZNuvoRomRUqqST2Os~c987-3S-MQgsgfiF1TSbJuBtZY1RV1ty~Z80JNg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1248px;
+		width: 185px;
+		top: 14px;
+		height: 158px;
+	}
+ 
+	/* Cseth is the crew’s Leader, he usually stops the fights and listens to everybody’s opinions, the last say is always on him, He’s really dependable and optimistic to finish things the right way. */
+	#n184_301 {
+		font-family: Kreon;
+		font-size: 36px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 495px;
+		align-items: center;
+		line-height: 42.1875px;
+		height: 275px;
+		left: 849px;
+		top: 530px;
+	}
+</style>

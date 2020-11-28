@@ -1,0 +1,111 @@
+<!-- Desktop - 11 -->
+<div class="frame" id="n102_2">
+	<!-- Rectangle 8 -->
+	<div class="left top rectangle" id="n102_3"></div>
+	<!-- pixel-speech-bubble (1) 4 -->
+	<div class="left top rectangle" id="n102_4"></div>
+	<!-- Rectangle 10 -->
+	<div class="left top rectangle" id="n102_6"></div>
+	<!-- Frame 1 -->
+	<div class="frame" id="n102_7"></div>
+	<!-- You are a Deviant! Deviants keeps his “teamates” from escaping the manor. -->
+	<div class="left top text" id="n102_8">You are a Deviant! &nbsp;&nbsp;&nbsp;<br>Deviants keeps his <br>“teamates” from escaping the manor. <br> &nbsp;
+	</div>
+	<!-- pixel-speech-bubble (4) 1 -->
+	<div class="left top rectangle" id="n102_9"></div>
+	<!-- aries2 1 -->
+	<div class="left top rectangle" id="n148_34"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 11 */
+#n102_2 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 8 */
+	#n102_3 {
+		background: rgb(129, 127, 82);
+		left: -48px;
+		width: 1488px;
+		height: 1024px;
+	}
+ 
+	/* pixel-speech-bubble (1) 4 */
+	#n102_4 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/bddd/43fc/fc76443a0bf168d691d202763db168f9?Expires=1607299200&Signature=DiBE3huYLFJ21Y0n5P~O5Fl9wjY~VvWPbAMCm0N2oolWg1nPXkjH-hYCyHrSHCy8jtKxlWRVbLSIYAkSYV-a1YKOpVsa4gLJKpBiZwRKnHDjY7c6JYAWRQXOhF1P0Tqonzwiy90s3nZEL4DAXpa8xo2dEt3L0Pw68WX~sZL55WOTJjE7RHx~Koiml8PwchL9523N-dUt36L9Eqou26zX4ie-Knirkth2a4WgON98YHBstmseGYnncT4XNGFHth8DEnZ9De-76g06M5p-UiOhSzmN0Pj8ZTUjsVLl1LnJ9D-Sq5Zt53m8P~rvbWYCBElMshDmue0CYFoRMDbTZlZeAA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 134px;
+		width: 352px;
+		top: 818px;
+		height: 151px;
+	}
+ 
+	/* Rectangle 10 */
+	#n102_6 {
+		background: rgb(255, 255, 255);
+		left: 51px;
+		width: 510px;
+		top: 414px;
+		height: 301px;
+	}
+ 
+	/* Frame 1 */
+	#n102_7 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 353px;
+		top: 503px;
+	}
+ 
+	/* You are a Deviant! Deviants keeps his “teamates” from escaping the manor. */
+	#n102_8 {
+		font-family: Kreon;
+		font-size: 48px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 476px;
+		transform: translate(0px, 0px);
+		line-height: 56.25px;
+		height: 252px;
+		left: 73px;
+		top: 441px;
+	}
+ 
+	/* pixel-speech-bubble (4) 1 */
+	#n102_9 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/861f/c3f9/415d11b573aa06104afd86b849516549?Expires=1607299200&Signature=I9iiS7xOMP1VQkhxmuorezwJdtMgUt-Z~r1KS6Rm8-BI87cWJmB-kc1ghka3P8l89DUhs87g1IG6BhNN9HoAcwQ5Da6nf7LEUeX7N-vLhdkLCkGp9avV4cQksqRj04Rw9ok~9EfCFXxLV1TCGefMtcubTYy5d8nu0CYMcpxOanrf6yG66tQNcERfY8v16ZDP4uLfxUGeP2WQ4CRyWjL71bQ4hioBRIhHVHKmFHM-9Wy7gYdkIf0fH0nB54pVgrGEqxzQphp2N5CudvXUy-J68DAnibwo85nVZe-wkgtnAKlH1zPJ0nDTJEfnpak7nV6TLAVHr52L0qRJ7hhXl6-LvQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 107px;
+		width: 407px;
+		top: 145px;
+		height: 233px;
+	}
+ 
+	/* aries2 1 */
+	#n148_34 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/881b/d0ca/ac57c78501fbd2d94b88f3e5424eb82b?Expires=1607299200&Signature=PhymxMA9JKxLB8MFRrqxph2UrisW3yGZ0lg6QFSsLcGR0ot-67i8M-RZWFkCiwvlhYhlFJwToIpUOBZdBEBC7g9NgCWVh9EizlDdjCe2Ig2ZHa4UD~SJuv~yh5KbYZFjBDVt71lv4eWP0OmuvILq~BGIx5RlrElgRcExa9L82Fb2BJ8TDKiVf2BRM0PYLdTOixmB~NK-JW1SMrKo7~ATs-irboeeQk0-gXbdQFfCKhwzaRg-pQy1J-5cQX4TgQB1PGZWzHTHgw49qUYmBJuBkL9KomUb3gnvnkbke1A6kLekcBjJ3QXafyNqybYbCEIHSLFjwhmLlEGHKDD0RLym5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 353px;
+		width: 1203px;
+		top: 33px;
+		height: 991px;
+	}
+</style>

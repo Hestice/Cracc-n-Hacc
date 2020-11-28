@@ -1,0 +1,122 @@
+<!-- Desktop - 73 -->
+<div class="frame" id="n184_246">
+	<!-- Rectangle 8 -->
+	<div class="left top rectangle" id="n184_247"></div>
+	<!-- Frame 1 -->
+	<div class="frame" id="n184_250"></div>
+	<!-- pixel-speech-bubble (15) 1 -->
+	<div class="left top rectangle" id="n192_44"></div>
+	<!-- Rectangle 11 -->
+	<div class="left top rectangle" id="n184_283"></div>
+	<!-- pixel-speech-bubble (9) 2 -->
+	<div class="left top rectangle" id="n197_31"></div>
+	<!-- pixel-speech-bubble (19) 1 -->
+	<div class="left top rectangle" id="n198_40"></div>
+	<!-- Aries is ALWAYS sus, he loves to listen to Pink Guy and blasts its music onto his speakers just to annoy his crew. He join’s in izzy and eivan’s banter. Hes a good guy though, just don’t fall for his antics. -->
+	<div class="left top text" id="n184_299">Aries is ALWAYS sus, he loves to listen to Pink Guy and blasts its music onto his speakers just to annoy his crew. He join’s in izzy and eivan’s banter. Hes a good guy though, just don’t fall for his antics. </div>
+	<!-- aries2 1 -->
+	<div class="left top rectangle" id="n184_282"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 73 */
+#n184_246 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 8 */
+	#n184_247 {
+		background: rgb(129, 127, 82);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Frame 1 */
+	#n184_250 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 401px;
+		top: 503px;
+	}
+ 
+	/* pixel-speech-bubble (15) 1 */
+	#n192_44 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/9562/ad8c/e8d50a60935e72316c1828fd38260b39?Expires=1607299200&Signature=RjXqKnj-MQueY-ZOTDb9b9iKogDbYKfsc6imMnV~GcGwN3W~FPIAz8IASNFpeHPDkHtHnfjztq1Rks24jOedjhlzP2ElHcKV04XkUCOrSFbyqQhEjv8cIyxKjXjo80SF~xGoOg6243uhp4zUMnmBD5jBGN8L2dfhLf4eyXdOCFkX-3LGYApYK8oOML0gMKBxxkWlUQ78xW8dhIUgJDJ4-WDNRiN32MgmyVOyNItOXQgMUjCZl6e7MKM4AnGEnQLpK6OE4ApK0-BmD7X8HbHUFOOi7Y8pS9yMeKmePwyTV3YRUS7C1CRWDR8oRlC1Lwg5VRCKR8pUOGM4UG7tEZFN2Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 910px;
+		width: 318px;
+		top: 180px;
+		height: 261px;
+	}
+ 
+	/* Rectangle 11 */
+	#n184_283 {
+		background: rgb(255, 255, 255);
+		left: 820px;
+		width: 543px;
+		top: 489px;
+		height: 337px;
+	}
+ 
+	/* pixel-speech-bubble (9) 2 */
+	#n197_31 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/489e/1fde/b1b1dd91eb5a370ed4a6460b22ef6afc?Expires=1607299200&Signature=DYLJA-QSj~AWCRVNMpNrcGjVbYBpnHrqzqVRX1Qa3icTHcclh8HnrFwHPxNhH19rNcDq~Hr7oqavxlNzsdx6FQes~K-5j~qPrBIRVNrudO8ls2nAFZovmpch4EEWEIw-tGRLhrT5vRcBMJjJ2rdzwl1XGTPzR-WqAa0bcko7w-QRrop7Ev1I9ZWbdHg-Zz8CIieQnx2ZOWO32CLPhnVHTzKIcrZXaKPQBRHlREAHNMEiAI5O9eN-KUST8Dl9oRrP45uNENWDnYxHnFYh3Dnn80Dl60NxGsCMf5ahXQyGHTTM0GDs~XWro8-zCmBgItBXulvExvv3zA5mYuKZq0-FvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 167px;
+		top: 10px;
+		height: 138px;
+	}
+ 
+	/* pixel-speech-bubble (19) 1 */
+	#n198_40 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f720/be68/bf1b14c6dbb0cd7a1cd8db7dd6e32217?Expires=1607299200&Signature=DsD3o3eSL15JBwffc9WtXiS49XFP3TQUe8rEXgtWQPrDo3~vIdB-Y5PuKKgZIT-78AQcUIlDLTSsToI7p4V4evgOQ2n8Yuf-6H0I72ioedKXlyUvtl6xxwgxPyyt7LnOdtEelKXd5vZLXa3eF08j9zjC2bg1L9SXXYkrlAR08YfD0Irgss4Lj8pk2xqPGx3iVxc4Ayl3cOO5LQzR9yhBSnlOWVEvvgdBkBr1BMcksKrRxi7LKwoiSqLyYsZQP4-kTywAhAgH7N~7SwqCKW4nXa4ITY66IZNuvoRomRUqqST2Os~c987-3S-MQgsgfiF1TSbJuBtZY1RV1ty~Z80JNg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1255px;
+		width: 185px;
+		top: 10px;
+		height: 158px;
+	}
+ 
+	/* Aries is ALWAYS sus, he loves to listen to Pink Guy and blasts its music onto his speakers just to annoy his crew. He join’s in izzy and eivan’s banter. Hes a good guy though, just don’t fall for his antics. */
+	#n184_299 {
+		font-family: Kreon;
+		font-size: 36px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 514px;
+		align-items: center;
+		line-height: 42.1875px;
+		height: 294px;
+		left: 833px;
+		top: 512px;
+	}
+ 
+	/* aries2 1 */
+	#n184_282 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/881b/d0ca/ac57c78501fbd2d94b88f3e5424eb82b?Expires=1607299200&Signature=PhymxMA9JKxLB8MFRrqxph2UrisW3yGZ0lg6QFSsLcGR0ot-67i8M-RZWFkCiwvlhYhlFJwToIpUOBZdBEBC7g9NgCWVh9EizlDdjCe2Ig2ZHa4UD~SJuv~yh5KbYZFjBDVt71lv4eWP0OmuvILq~BGIx5RlrElgRcExa9L82Fb2BJ8TDKiVf2BRM0PYLdTOixmB~NK-JW1SMrKo7~ATs-irboeeQk0-gXbdQFfCKhwzaRg-pQy1J-5cQX4TgQB1PGZWzHTHgw49qUYmBJuBkL9KomUb3gnvnkbke1A6kLekcBjJ3QXafyNqybYbCEIHSLFjwhmLlEGHKDD0RLym5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -150px;
+		width: 1203px;
+		top: 79px;
+		height: 991px;
+	}
+</style>

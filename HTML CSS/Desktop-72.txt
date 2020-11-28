@@ -1,0 +1,122 @@
+<!-- Desktop - 72 -->
+<div class="frame" id="n184_236">
+	<!-- Rectangle 6 -->
+	<div class="left top rectangle" id="n184_237"></div>
+	<!-- Frame 3 -->
+	<div class="frame" id="n184_242"></div>
+	<!-- pixel-speech-bubble (18) 1 -->
+	<div class="left top rectangle" id="n192_47"></div>
+	<!-- Rectangle 13 -->
+	<div class="left top rectangle" id="n184_284"></div>
+	<!-- pixel-speech-bubble (9) 2 -->
+	<div class="left top rectangle" id="n197_30"></div>
+	<!-- Zy is your typical deliquent, mischievous, and out going, He always teases and picks a fight with his crew, but deep inside he surely wants to spend adventures with them. -->
+	<div class="left top text" id="n184_288">Zy is your typical deliquent, mischievous, and out going, &nbsp;<br>He always teases and picks a fight with his crew, but deep inside he surely wants to spend adventures with them.
+	</div>
+	<!-- pixel-speech-bubble (2) 5 -->
+	<div class="left top rectangle" id="n198_42"></div>
+	<!-- hh1 1 -->
+	<div class="left top rectangle" id="n184_245"></div>
+</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 72 */
+#n184_236 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+ 
+	/* Rectangle 6 */
+	#n184_237 {
+		background: rgb(100, 100, 100);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Frame 3 */
+	#n184_242 {
+		width: 100px;
+		height: 100px;
+		overflow: hidden;
+		left: 21px;
+		top: 446px;
+	}
+ 
+	/* pixel-speech-bubble (18) 1 */
+	#n192_47 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f8dc/ed7a/f38409439b4a94aef8fecdf42bb0c74f?Expires=1607299200&Signature=bqvGj1D0XdlrQiQ24ZO80d66gI29swrS21Ra3b2y0a7YCeFmZT5LCQbFnEj~98k8t2Tg0x8L6~fH4Eea4c~XdqT0V9RCgAMFPOjIU4yMyk9~3Lkc95g4OECTGqwgfSMWxpF5ngcdP-DWzIbyLMmN58RkcwlRF3SMRxKPYhA2rr515lJKkhL1oLU8K9uqNWr7j1EjQY3AQwp4auoNR7~Htss2xm52JcqddcaHwdPog58wfTwEFp7SUMkICmdemmfthkf~y0AdVxScWNv9zqGvywh0EN~Db0SZ~txZr3f6AGz5MDldg-BbWee7GSUKHiwHxwUNftjHVhKNjiz0T5cCpg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 948px;
+		width: 335px;
+		top: 160px;
+		height: 272px;
+	}
+ 
+	/* Rectangle 13 */
+	#n184_284 {
+		background: rgb(255, 255, 255);
+		left: 852px;
+		width: 538px;
+		top: 484px;
+		height: 321px;
+	}
+ 
+	/* pixel-speech-bubble (9) 2 */
+	#n197_30 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/489e/1fde/b1b1dd91eb5a370ed4a6460b22ef6afc?Expires=1607299200&Signature=DYLJA-QSj~AWCRVNMpNrcGjVbYBpnHrqzqVRX1Qa3icTHcclh8HnrFwHPxNhH19rNcDq~Hr7oqavxlNzsdx6FQes~K-5j~qPrBIRVNrudO8ls2nAFZovmpch4EEWEIw-tGRLhrT5vRcBMJjJ2rdzwl1XGTPzR-WqAa0bcko7w-QRrop7Ev1I9ZWbdHg-Zz8CIieQnx2ZOWO32CLPhnVHTzKIcrZXaKPQBRHlREAHNMEiAI5O9eN-KUST8Dl9oRrP45uNENWDnYxHnFYh3Dnn80Dl60NxGsCMf5ahXQyGHTTM0GDs~XWro8-zCmBgItBXulvExvv3zA5mYuKZq0-FvA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 167px;
+		top: 16px;
+		height: 138px;
+	}
+ 
+	/* Zy is your typical deliquent, mischievous, and out going, He always teases and picks a fight with his crew, but deep inside he surely wants to spend adventures with them. */
+	#n184_288 {
+		font-family: Kreon;
+		font-size: 36px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 515px;
+		align-items: center;
+		line-height: 42.1875px;
+		height: 270px;
+		left: 862px;
+		top: 509px;
+	}
+ 
+	/* pixel-speech-bubble (2) 5 */
+	#n198_42 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0f30/6a5e/9306cb28e3c2e50e315cdd265ad4384e?Expires=1607299200&Signature=XfgyPv-pzz5nkhN3KOp8gyP~Vta5-NQIn6wZTtAUsyxs3nzGR9-MfgmDBVAStRdMkUtZYhwjtO5T0WO6eX8dnIG3y6bfGK0~iscBXJe5jssAmdqH9Ow2F9kBd8als9MXDWQP6M3Vum0kQmrZqGLlOZbBanirQGxh8nUg1lOCTlAjWCM3D77CLlnF9TpqJhih-ZKpzqj89yn29wao5XIaogd3AR9OR-v~gePbT7yksLodHp3TBu0JyKVa04bbNHHG54Yq-OHOQgTqOb0xVXXwWEUoXMyDivwxvjNKk76uyOI71~Nah1y~uieaDI-~Qs4d7ENE7U-s-go3col5ZLVOHQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1264px;
+		width: 167px;
+		top: 28px;
+		height: 126px;
+	}
+ 
+	/* hh1 1 */
+	#n184_245 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/b2aa/6730/e1258736326e535d8ffab5943001cfff?Expires=1607299200&Signature=GBMfJTECvoA4aVHvqvfGUmSQJDiUpjzgteTYaaGS4ocUXyQcBfcVjKUS-y7CqtDZg-FOEEX0YVf6QQ~Bg3IE7ez-fc5ZCmE0TLzfC1buIgPYfL6b9MW~A56wdUMqg9erST9Ox8MdKGqnVxFp~20004KFPMTZUlcVTbzYBPZ0efeEpiNNc4lc4Ky~ADAS915ED2y332JzTbMIaq1-DGKpLpESC1mopGaNYsdGniHmJqVQXq0KXlqfxxTYhBIcppE2YkNHuyRfyF5LfhOLeE5fUKP7U1pM3Rc5lvLmq3C6DrKK4UlUim7YWp41npKjTHwjtm5hIUKJjDQdLmp-dnSl1Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -195px;
+		width: 1301px;
+		top: 65px;
+		height: 959px;
+	}
+</style>

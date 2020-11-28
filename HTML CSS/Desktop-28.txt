@@ -1,0 +1,119 @@
+<!-- Desktop - 28 -->
+<div class="frame" id="n151_74">
+	<!-- Rectangle 1 -->
+	<div class="left top rectangle" id="n151_75"></div>
+	<!-- Rectangle 24 -->
+	<div class="left top rectangle" id="n151_76"></div>
+	<!-- Rectangle 25 -->
+	<div class="left top rectangle" id="n151_77"></div>
+	<!-- Rectangle 23 -->
+	<div class="left top rectangle" id="n151_78"></div>
+	<!-- Rectangle 22 -->
+	<div class="left top rectangle" id="n151_79"></div>
+	<!-- pixel-speech-bubble (1) 2 -->
+	<div class="left top rectangle" id="n151_80"></div>
+	<!-- Rectangle 21 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9d40/1b00/9656f8e5341e3bb5e4f40a655684e966" width="171" height="66" class="left top vector" id="n151_82">
+		<!-- pixel-speech-bubble (11) 1 -->
+		<div class="left top rectangle" id="n151_101"></div>
+		<!-- Rectangle 30 -->
+		<div class="left top rectangle" id="n151_102"></div>
+	</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 28 */
+#n151_74 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(100, 18, 0);
+}
+ 
+	/* Rectangle 1 */
+	#n151_75 {
+		background: rgb(111, 136, 92);
+		left: 1155px;
+		width: 192px;
+		top: 287px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 24 */
+	#n151_76 {
+		background: rgb(42, 20, 97);
+		left: 110px;
+		width: 192px;
+		top: 287px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 25 */
+	#n151_77 {
+		background: rgb(116, 84, 136);
+		left: 624px;
+		width: 192px;
+		top: 287px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 23 */
+	#n151_78 {
+		background: rgb(100, 100, 100);
+		left: 881px;
+		width: 192px;
+		top: 287px;
+		height: 536px;
+	}
+ 
+	/* Rectangle 22 */
+	#n151_79 {
+		background: rgb(129, 127, 82);
+		left: 367px;
+		width: 192px;
+		top: 287px;
+		height: 536px;
+	}
+ 
+	/* pixel-speech-bubble (1) 2 */
+	#n151_80 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/7e30/6495/12a9807f026844c3f82ed0504ad9b3c7?Expires=1607299200&Signature=RuaoS4AEmHqs-ILyWAVDg7yBl4fCxgVdeOz4s1W670wjyjPKwgLd4omTLgBd5K5omm-MuivkWdbPjqN5Ctrowe4olPm2vbl1gzoRWtTJxEhzng-wbrhEAGaiZsH1JS2tijuBfSS7m9b~~sO3tZ12ydYzrkSWjbmcI6nEVUU96al0p2N2ua6kSYP0FlfQIeOncQ9lJGRl5myKvqc0pr2zgTcLJhNm~wCBqpQAD2t~bLGBBFhS9KWRvndtYwp4eBLCMpKx0v1c8paO63abDBrEN69gBfnqXv17b-nE0OiGgoOkKJyGYHsSWSonvfjBS46lyTzVYO5jLDaapmdx-2bZMA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 576px;
+		width: 288px;
+		height: 218px;
+	}
+ 
+	/* Rectangle 21 */
+	#n151_82 {
+		left: 1234px;
+		width: 171px;
+		top: 114px;
+		height: 66px;
+	}
+ 
+	/* pixel-speech-bubble (11) 1 */
+	#n151_101 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/9979/2e02/37314dcbdd2037de1602dee006e1f60f?Expires=1607299200&Signature=RRngSKid5CfYlBIB1HLfSozKjuqguwR3M-lAw19xsOKWeco-DVk-OFbCl25hv7MLtCYniiTuaXOFp7s8mVh8N2IJju~yFSXcoXiPmS0CKCJPdkDIl4zwXu90M~Ng24r0Z9yxZB90AMKL15zb3iiV9faAJy4J3Yak9~G-GRlj4fdnef5Gp0tOUqdFJUw~iMaHqMADOn7CShz5Mi7pQo2h6VYZB2AlT-TtUWFcNsOfdIot~obzUTwYbZ9GY3lj0zoSI6Yut014ZeFKtAMgbSh0j1ZzxuMKQxM10xIkfnnZtc~Jli8z4UPc6uKYpGsvwQnbgPgj2fet4LeJBZsjrptdWg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 463px;
+		width: 486px;
+		top: 844px;
+		height: 180px;
+	}
+ 
+	/* Rectangle 30 */
+	#n151_102 {
+		background: rgb(100, 18, 0);
+		left: 574px;
+		width: 146px;
+		top: 950px;
+		height: 58px;
+	}
+</style>

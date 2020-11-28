@@ -1,0 +1,255 @@
+<!-- Desktop - 62 -->
+<div class="frame" id="n184_132">
+	<!-- image 4 -->
+	<div class="left top rectangle" id="n184_133"></div>
+	<!-- Rectangle 26 -->
+	<div class="left top rectangle" id="n184_134"></div>
+	<!-- Vector 1 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7c89/d570/9c109e8c24d1252d18e5d10282a6ea0d" width="73" height="50" class="left top vector" id="n184_135">
+		<!-- Vector 2 -->
+		<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f5a3/9b66/68765d4782cfdca751eecabc4ab7e9de" width="32" height="22" class="left top vector" id="n184_136">
+			<!-- Vector 3 -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b4e8/bdbe/148f695641196fac3aadea1f9768b8d7" width="33" height="20" class="left top vector" id="n184_137">
+				<!-- Rectangle 27 -->
+				<div class="left top rectangle" id="n184_138"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_139"></div>
+				<!-- Rectangle 29 -->
+				<div class="left top rectangle" id="n184_140"></div>
+				<!-- Rectangle 28 -->
+				<div class="left top rectangle" id="n184_141"></div>
+				<!-- Rectangle 30 -->
+				<div class="left top rectangle" id="n184_142"></div>
+				<!-- Rectangle 31 -->
+				<div class="left top rectangle" id="n184_143"></div>
+				<!-- Rectangle 32 -->
+				<div class="left top rectangle" id="n184_144"></div>
+				<!-- Rectangle 33 -->
+				<div class="left top rectangle" id="n184_145"></div>
+				<!-- how many cells are there in the human body? -->
+				<div class="left top text" id="n184_146">how many cells are there in the human body?</div>
+				<!-- 37.2 trillion cells -->
+				<div class="left top text" id="n184_147">37.2 trillion cells</div>
+				<!-- 33.7 trillion cells -->
+				<div class="left top text" id="n184_148">33.7 trillion cells</div>
+				<!-- 69.1 trillion cells -->
+				<div class="left top text" id="n184_149">69.1 trillion cells</div>
+				<!-- 42.0 trillion cells -->
+				<div class="left top text" id="n184_150">42.0 trillion cells</div>
+			</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 62 */
+#n184_132 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* image 4 */
+	#n184_133 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/d64f/8914/ae6c3b4a7859c160344e87248cc810e7?Expires=1607299200&Signature=CfwTk0mHmkShi6zOaUHUcX73qIthBKIdKi65SC~ELJOyfb-juXJ8UYUNJ57xjCPlgC4WYa-Tz0GUIsX2QY5w2qi1AFxn-r7u0jmPZQ23YjRUeU0nqgtpOC0QSSCBdV7AlOiTvVdIyfRq~UwLZ5V0Vg2VJKB0cAELESl4gF-oXORQnreyutJ8t7WSS4gKyw1YhiglYtwXlbfxPqSY4jbEdZ48F7JoHdmE8Ysefj889Jj9SDWCztyEYf2N038ZUizv0zREQY8Ozp32Kue~y8iwO5zJKBmFo6ahwLyMcbIqQ1I0rHAWeNEb40JL26kVI8Pi~yhktrXwqsY-xbtNt-HMiA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -11px;
+		width: 1461px;
+		height: 1024px;
+	}
+ 
+	/* Rectangle 26 */
+	#n184_134 {
+		background: rgba(0, 0, 0, 0.2);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* Vector 1 */
+	#n184_135 {
+		left: 1243px;
+		width: 73px;
+		top: 483px;
+		height: 50px;
+	}
+ 
+	/* Vector 2 */
+	#n184_136 {
+		left: 983px;
+		width: 32px;
+		top: 461px;
+		height: 22px;
+	}
+ 
+	/* Vector 3 */
+	#n184_137 {
+		left: 240px;
+		width: 33px;
+		top: 461px;
+		height: 20px;
+	}
+ 
+	/* Rectangle 27 */
+	#n184_138 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 501px;
+		width: 139px;
+		top: 284px;
+		height: 163px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_139 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 421px;
+		width: 48px;
+		top: 349px;
+		height: 55px;
+	}
+ 
+	/* Rectangle 29 */
+	#n184_140 {
+		box-shadow: rgb(255, 233, 118) 0px 0px 0px 6px inset;
+		left: 375px;
+		width: 265px;
+		top: 52px;
+		height: 50px;
+	}
+ 
+	/* Rectangle 28 */
+	#n184_141 {
+		background: rgba(111, 136, 92, 0.8);
+		width: 1450px;
+		top: 282px;
+		height: 249px;
+	}
+ 
+	/* Rectangle 30 */
+	#n184_142 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 207px;
+		width: 376px;
+		top: 616px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 31 */
+	#n184_143 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 202px;
+		width: 376px;
+		top: 798px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 32 */
+	#n184_144 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 801px;
+		width: 376px;
+		top: 616px;
+		height: 114px;
+	}
+ 
+	/* Rectangle 33 */
+	#n184_145 {
+		background: rgba(111, 136, 92, 0.8);
+		left: 796px;
+		width: 376px;
+		top: 798px;
+		height: 114px;
+	}
+ 
+	/* how many cells are there in the human body? */
+	#n184_146 {
+		font-family: Epilogue;
+		font-size: 72px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 1402px;
+		align-items: center;
+		line-height: 84.375px;
+		height: 358px;
+		left: 25px;
+		top: 223px;
+	}
+ 
+	/* 37.2 trillion cells */
+	#n184_147 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 316px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 240px;
+		top: 651px;
+	}
+ 
+	/* 33.7 trillion cells */
+	#n184_148 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 316px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 826px;
+		top: 836px;
+	}
+ 
+	/* 69.1 trillion cells */
+	#n184_149 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 316px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 826px;
+		top: 651px;
+	}
+ 
+	/* 42.0 trillion cells */
+	#n184_150 {
+		font-family: "Krona One";
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 323px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 38px;
+		left: 233px;
+		top: 828px;
+	}
+</style>

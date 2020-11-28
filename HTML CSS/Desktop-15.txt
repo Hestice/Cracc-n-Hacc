@@ -1,0 +1,115 @@
+<!-- Desktop - 15 -->
+<div class="frame" id="n146_28">
+	<!-- Rectangle 5 -->
+	<div class="left top rectangle" id="n146_29"></div>
+	<!-- pixel-speech-bubble (2) 3 -->
+	<div class="left top rectangle" id="n146_31"></div>
+	<!-- image 2 -->
+	<div class="left top rectangle" id="n146_32"></div>
+	<!-- Rectangle 20 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9136/d82b/c4c2a50dd854510e5020659bec2cb226" width="1452" height="417" class="left top vector" id="n146_33">
+		<!-- Rectangle 19 -->
+		<div class="left top rectangle" id="n146_34"></div>
+		<!-- The bystanders must work together to accomplish all their assignments in order to escape the manor while averting from the deviant's words, whose job is to blend in and deceive them to performing incorrect assignments. -->
+		<div class="left top text" id="n146_35"><br>The bystanders must work together to accomplish all their assignments in order to escape the manor while averting from the deviant's words, whose job is to blend in and deceive them to performing incorrect assignments.
+		</div>
+		<!-- GOAL OF THE GAME -->
+		<div class="left top text" id="n148_9">GOAL OF THE GAME</div>
+	</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 15 */
+#n146_28 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 5 */
+	#n146_29 {
+		background: rgb(16, 19, 74);
+		width: 1440px;
+		height: 1024px;
+	}
+ 
+	/* pixel-speech-bubble (2) 3 */
+	#n146_31 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0f30/6a5e/9306cb28e3c2e50e315cdd265ad4384e?Expires=1607299200&Signature=XfgyPv-pzz5nkhN3KOp8gyP~Vta5-NQIn6wZTtAUsyxs3nzGR9-MfgmDBVAStRdMkUtZYhwjtO5T0WO6eX8dnIG3y6bfGK0~iscBXJe5jssAmdqH9Ow2F9kBd8als9MXDWQP6M3Vum0kQmrZqGLlOZbBanirQGxh8nUg1lOCTlAjWCM3D77CLlnF9TpqJhih-ZKpzqj89yn29wao5XIaogd3AR9OR-v~gePbT7yksLodHp3TBu0JyKVa04bbNHHG54Yq-OHOQgTqOb0xVXXwWEUoXMyDivwxvjNKk76uyOI71~Nah1y~uieaDI-~Qs4d7ENE7U-s-go3col5ZLVOHQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 41px;
+		width: 167px;
+		top: 865px;
+		height: 138px;
+	}
+ 
+	/* image 2 */
+	#n146_32 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f5bb/c6a0/2da3588ab54c8d13790dad545b0b03a0?Expires=1607299200&Signature=Ao2PzYYUoZeXRQewGl3IEXUIVSgULYN7UrLkUPNO76RqM7OcxQKL3MMN-ncWzJJsZc7EC0L1e5Ls4JSjxfnjxkT6ov69bFNoxSLcIquO6OLE4p5ev5lq6lfMLXahovaGGG8eHF~UzJ~3GrnKL4mHs8N8Q~jGaCtxyHsrDkOb-0fcNFQTzjaIR71aAxWgNGa5dfPbJEHfRo0rfwi1f-U~X8sKN0tpYXoIquAizE0v~yZGOfjvH3XgMs9idTEGiaaNlfln960E6zZ5NObO-XPUx-9WJ6wZb6lv-7NNbY2eejWIeHo~C41saLXHW5-J1IZO62eaptuSmqRKDcckOFQnAQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -12px;
+		width: 1440px;
+		top: 207px;
+		height: 647px;
+	}
+ 
+	/* Rectangle 20 */
+	#n146_33 {
+		left: -12px;
+		width: 1452px;
+		top: 278px;
+		height: 417px;
+	}
+ 
+	/* Rectangle 19 */
+	#n146_34 {
+		background: rgb(16, 19, 74);
+		left: 41px;
+		width: 140px;
+		top: 945px;
+		height: 58px;
+	}
+ 
+	/* The bystanders must work together to accomplish all their assignments in order to escape the manor while averting from the deviant's words, whose job is to blend in and deceive them to performing incorrect assignments. */
+	#n146_35 {
+		font-family: "Krona One";
+		font-size: 36px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 825px;
+		align-items: center;
+		line-height: 42.1875px;
+		height: 360px;
+		left: 336px;
+		top: 278px;
+	}
+ 
+	/* GOAL OF THE GAME */
+	#n148_9 {
+		font-family: "Krona One";
+		font-size: 96px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(87, 70, 187);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 1247px;
+		transform: translate(0px, 0px);
+		line-height: 112.5px;
+		height: 120px;
+		box-shadow: rgb(0, 0, 0) 0px 4px 4px 0px;
+		left: 125px;
+		top: 58px;
+	}
+</style>

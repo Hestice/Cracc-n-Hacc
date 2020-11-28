@@ -1,0 +1,123 @@
+<!-- Desktop - 10 -->
+<div class="frame" id="n30_22">
+	<!-- Rectangle 24 -->
+	<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/b2b1/5303/2d8c36b973410b414ba9b0f21ecc384a" width="1452" height="565" class="left top vector" id="n148_22">
+		<!-- Rectangle 5 -->
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" class="empty left top vector" width="953" height="1044" id="n30_23">
+			<!-- Rectangle 24 -->
+			<div class="left top rectangle" id="n146_55"></div>
+			<!-- pixel-speech-bubble (6) 2 -->
+			<div class="left top rectangle" id="n148_21"></div>
+			<!-- Mischief Manor is a multiplayer game meant to test the trust and teamwork of 5 players. They may use their words in working together to solve the presented puzzles while avoiding the deviant's deceptive methods. The game features various themes, rooms, abilities, with one goal: to escape. There is no limit to your wits, use every bit of your skill to succeed, goodluck! -->
+			<div class="left top text" id="n146_53">Mischief Manor is a multiplayer game meant to test the trust and teamwork of 5 players. They may use their words in working together to solve the presented puzzles while avoiding the deviant's deceptive methods. &nbsp;&nbsp;<br><br>The game features various themes, rooms, abilities, with one goal: to escape. There is no limit to your wits, use every bit of your skill to succeed, goodluck!
+			</div>
+			<!-- image 3 -->
+			<div class="left top rectangle" id="n148_20"></div>
+			<!-- pixel-speech-bubble (2) 4 -->
+			<div class="left top rectangle" id="n146_54"></div>
+			<!-- pixel-speech-bubble (12) 2 -->
+			<div class="left top rectangle" id="n192_41"></div>
+		</div>
+
+
+<!-- ———————      CSS      ——————— -->
+<style>
+
+/* Desktop - 10 */
+#n30_22 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(116, 84, 136);
+}
+ 
+	/* Rectangle 24 */
+	#n148_22 {
+		left: -12px;
+		width: 1452px;
+		top: 114px;
+		height: 565px;
+	}
+ 
+	/* Rectangle 5 */
+	#n30_23 {
+		left: 422px;
+		width: 953px;
+		top: 498.656px;
+		height: 1044px;
+	}
+ 
+	/* Rectangle 24 */
+	#n146_55 {
+		background: rgb(116, 84, 136);
+		left: 65px;
+		width: 103px;
+		top: 933px;
+		height: 58px;
+	}
+ 
+	/* pixel-speech-bubble (6) 2 */
+	#n148_21 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/c985/c44d/321f871bdb6f81a3cf45f60be6bbe054?Expires=1607299200&Signature=VAqQ7IDlHKRMqvbIMoLpnn9wIrSdO2PiE5FJf7abak9P0iuea9EPxQOURfQr6d~4BV1mkgTp2mHrhPojJ6kAd2jeplrzMCoeG9b7TTfpjnKzmwSxfqySjWnHwqEiyIF-Dz38arbrmZB7o99H3J4n6UCn-jDHRti5wosPhQu3l~mjKRJ-~hWna5QuI8vQ0yp8EDTf85fyL~rf39mbYAL7O1OLxYHUCPg51VWb0aivEADorPEpBZpVYn8yFTHj6ZTK1TTGtDnBErFfit2QBYt0NpGqb5t8fyVqe7BO82wEGp2rnvF-DeRQEi3CJLmJgYeNSC6oJwUJdNLSWx2qRkWznA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 65px;
+		width: 742.302px;
+		top: 71px;
+		height: 257.229px;
+	}
+ 
+	/* Mischief Manor is a multiplayer game meant to test the trust and teamwork of 5 players. They may use their words in working together to solve the presented puzzles while avoiding the deviant's deceptive methods. The game features various themes, rooms, abilities, with one goal: to escape. There is no limit to your wits, use every bit of your skill to succeed, goodluck! */
+	#n146_53 {
+		font-family: "Krona One";
+		font-size: 28px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(254, 233, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 914px;
+		transform: translate(0px, 0px);
+		line-height: 32.8125px;
+		height: 190px;
+		left: 465px;
+		top: 261px;
+	}
+ 
+	/* image 3 */
+	#n148_20 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/5cca/eaff/744dc59da766e382e9299b5c648b164b?Expires=1607299200&Signature=VUp7EbJRV80-E3HqLHHIjMW4TDXlmfq0fl1kJI5DfHDKD5nb5LeAPLE5hb5dF3Z2XuV9opzz2QGZXlP~a1cSmKdX43RALLdBPmXQGMEXlqdS61cUQzNF-uQeHKPBYfKxdDOu6TfO1NzTT6BOVn4iWQIc2ac2CaAcSbRHbDF-1VieBPQqeJpx5jYq9-YJ1j~dvBRXEcOFXtDSovFrKnChpcOnSINGIvp6ePlB4NT~0FmRa~gx~OUAbtRE41AsFrswPKcujSZmm-t57Bln4ubietiSbXTTQZgIX9K6aQeOtJfeQ96A3UU-O~vgdEtqyR6Op0MOzmoNY3nUOX43SU4BCQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: -590px;
+		width: 2110.57px;
+		top: 464px;
+		height: 2137.05px;
+	}
+ 
+	/* pixel-speech-bubble (2) 4 */
+	#n146_54 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/0f30/6a5e/9306cb28e3c2e50e315cdd265ad4384e?Expires=1607299200&Signature=XfgyPv-pzz5nkhN3KOp8gyP~Vta5-NQIn6wZTtAUsyxs3nzGR9-MfgmDBVAStRdMkUtZYhwjtO5T0WO6eX8dnIG3y6bfGK0~iscBXJe5jssAmdqH9Ow2F9kBd8als9MXDWQP6M3Vum0kQmrZqGLlOZbBanirQGxh8nUg1lOCTlAjWCM3D77CLlnF9TpqJhih-ZKpzqj89yn29wao5XIaogd3AR9OR-v~gePbT7yksLodHp3TBu0JyKVa04bbNHHG54Yq-OHOQgTqOb0xVXXwWEUoXMyDivwxvjNKk76uyOI71~Nah1y~uieaDI-~Qs4d7ENE7U-s-go3col5ZLVOHQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 1256px;
+		width: 167px;
+		top: 895px;
+		height: 126px;
+	}
+ 
+	/* pixel-speech-bubble (12) 2 */
+	#n192_41 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/ce5d/dd81/e80afa2ef17ded0951bc397f8510356e?Expires=1607299200&Signature=UNy08bp0nRvNQdq6GQe6-iUtMLssWDdmJXjhIG3sx3H~~JArA~zYAbwfGko9c0kMxSDe94wy7AcS25s4nxH0cJECximJZwIK1CUmgbecyPK~Hfw-3QBjwqNV6r3YifXVEilBlvgnBVTMW1WnwLOSVP4vo9ZQcRPr1YVKLm-imaUXQ3moce1pg9oqMAnn5qBauLlw8EIGzCaIIBLync933BcgGbF0Q02eb-FMFKOgBDsBSlNSxuo74za0hUc0xt7AEMRi25MQvAMRFro~AjI2VvIhfET9N2bGHe2i1~sT0Ql~Fp3msX8c8yCiLm69RLM-0SQZpoeMMS9lx-iWvqwz-w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		width: 369px;
+		top: 715px;
+		height: 180px;
+	}
+</style>
