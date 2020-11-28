@@ -26,3 +26,4 @@ presented puzzles while avoiding the deviant's deceptive methods.
 
 
 THIS REPOSITORY CONTAINS HTML CSS CODE OF THE GAME
+This is our submission for the Hackathon of HackFest2020:Online, an event organized by DSCLoyola
