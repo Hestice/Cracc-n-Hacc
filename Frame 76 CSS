@@ -1,0 +1,95 @@
+/* Desktop - 76 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1507px;
+height: 1137px;
+left: -13px;
+top: -113px;
+
+background: #745488;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 550px;
+height: 360px;
+left: 815px;
+top: 489px;
+
+background: #FFFFFF;
+
+
+/* izzy2 1 */
+
+position: absolute;
+width: 1306px;
+height: 931px;
+left: -293px;
+top: 93px;
+
+background: url(izzy2.png);
+
+
+/* pixel-speech-bubble (17) 1 */
+
+position: absolute;
+width: 316px;
+height: 323px;
+left: 937px;
+top: 148px;
+
+background: url(pixel-speech-bubble (17).png);
+
+
+/* pixel-speech-bubble (2) 4 */
+
+position: absolute;
+width: 167px;
+height: 138px;
+left: 0px;
+top: 10px;
+
+background: url(pixel-speech-bubble (2).png);
+mix-blend-mode: normal;
+
+
+/* pixel-speech-bubble (19) 1 */
+
+position: absolute;
+width: 185px;
+height: 158px;
+left: 1252px;
+top: 10px;
+
+background: url(pixel-speech-bubble (19).png);
+
+
+/* izzy never run’s out of things to say (energy too), eivan is quick to retaliate every time she does impulsive decisions, still her opinions are always valid. just like aries and zy her antics gets the best of her. */
+
+position: absolute;
+width: 507px;
+height: 275px;
+left: 837px;
+top: 536px;
+
+font-family: Kreon;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
