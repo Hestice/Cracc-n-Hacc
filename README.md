@@ -16,7 +16,7 @@ also challenges the users to engage in social interactions and conversations
 with other users which enhances teamwork skills and word skills. On top of that,
 this game also aims to entertain, and alleviate stress.
 
-==================================================================================
+==========================================================================
 
 The game is entitled "Mischief Manor"
 
